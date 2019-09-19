@@ -1,0 +1,1957 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GameInfo>
+	<Types>
+		<Row Type= "CIVILIZATION_VENEZIA" Kind= "KIND_CIVILIZATION"/>
+		<Row Type= "LEADER_MINOR_CIV_VENEZIA" Kind= "KIND_LEADER"/>
+		<Row Type= "MINOR_CIV_VENEZIA_TRAIT" Kind= "KIND_TRAIT"/>
+		<Row Type= "CIVILIZATION_MOGADISHU" Kind= "KIND_CIVILIZATION"/>
+		<Row Type= "LEADER_MINOR_CIV_MOGADISHU" Kind= "KIND_LEADER"/>
+		<Row Type= "MINOR_CIV_MOGADISHU_TRAIT" Kind= "KIND_TRAIT"/>
+		<Row Type= "CIVILIZATION_TARTESSOS" Kind= "KIND_CIVILIZATION"/>
+		<Row Type= "LEADER_MINOR_CIV_TARTESSOS" Kind= "KIND_LEADER"/>
+		<Row Type= "MINOR_CIV_TARTESSOS_TRAIT" Kind= "KIND_TRAIT"/>
+		<Row Type= "CIVILIZATION_PORT_ROYAL" Kind= "KIND_CIVILIZATION"/>
+		<Row Type= "LEADER_MINOR_CIV_PORT_ROYAL" Kind= "KIND_LEADER"/>
+		<Row Type= "MINOR_CIV_PORT_ROYAL_TRAIT" Kind= "KIND_TRAIT"/>
+		<Row Type= "CIVILIZATION_GOA" Kind= "KIND_CIVILIZATION"/>
+		<Row Type= "LEADER_MINOR_CIV_GOA" Kind= "KIND_LEADER"/>
+		<Row Type= "MINOR_CIV_GOA_TRAIT" Kind= "KIND_TRAIT"/>
+		<Row Type= "CIVILIZATION_SINGAPORE" Kind= "KIND_CIVILIZATION"/>
+		<Row Type= "LEADER_MINOR_CIV_SINGAPORE" Kind= "KIND_LEADER"/>
+		<Row Type= "MINOR_CIV_SINGAPORE_TRAIT" Kind= "KIND_TRAIT"/>
+		<Row Type= "CIVILIZATION_KIEV" Kind= "KIND_CIVILIZATION"/>
+		<Row Type= "LEADER_MINOR_CIV_KIEV" Kind= "KIND_LEADER"/>
+		<Row Type= "MINOR_CIV_KIEV_TRAIT" Kind= "KIND_TRAIT"/>
+		<Row Type= "CIVILIZATION_HANOI" Kind= "KIND_CIVILIZATION"/>
+		<Row Type= "LEADER_MINOR_CIV_HANOI" Kind= "KIND_LEADER"/>
+		<Row Type= "MINOR_CIV_HANOI_TRAIT" Kind= "KIND_TRAIT"/>
+		<Row Type= "CIVILIZATION_CAPE_TOWN" Kind= "KIND_CIVILIZATION"/>
+		<Row Type= "LEADER_MINOR_CIV_CAPE_TOWN" Kind= "KIND_LEADER"/>
+		<Row Type= "MINOR_CIV_CAPE_TOWN_TRAIT" Kind= "KIND_TRAIT"/>
+		<Row Type= "CIVILIZATION_BOGOTA" Kind= "KIND_CIVILIZATION"/>
+		<Row Type= "LEADER_MINOR_CIV_BOGOTA" Kind= "KIND_LEADER"/>
+		<Row Type= "MINOR_CIV_BOGOTA_TRAIT" Kind= "KIND_TRAIT"/>
+		<Row Type= "CIVILIZATION_MERV" Kind= "KIND_CIVILIZATION"/>
+		<Row Type= "LEADER_MINOR_CIV_MERV" Kind= "KIND_LEADER"/>
+		<Row Type= "MINOR_CIV_MERV_TRAIT" Kind= "KIND_TRAIT"/>
+		<Row Type= "CIVILIZATION_LAGOS" Kind= "KIND_CIVILIZATION"/>
+		<Row Type= "LEADER_MINOR_CIV_LAGOS" Kind= "KIND_LEADER"/>
+		<Row Type= "MINOR_CIV_LAGOS_TRAIT" Kind= "KIND_TRAIT"/>
+	</Types>
+	<Leaders>
+		<Row LeaderType="LEADER_MINOR_CIV_VENEZIA" Name="LOC_CIVILIZATION_VENEZIA_NAME" InheritFrom="LEADER_MINOR_CIV_MARITIME"/>
+		<Row LeaderType="LEADER_MINOR_CIV_MOGADISHU" Name="LOC_CIVILIZATION_MOGADISHU_NAME" InheritFrom="LEADER_MINOR_CIV_MARITIME"/>
+		<Row LeaderType="LEADER_MINOR_CIV_TARTESSOS" Name="LOC_CIVILIZATION_TARTESSOS_NAME" InheritFrom="LEADER_MINOR_CIV_MARITIME"/>
+		<Row LeaderType="LEADER_MINOR_CIV_PORT_ROYAL" Name="LOC_CIVILIZATION_PORT_ROYAL_NAME" InheritFrom="LEADER_MINOR_CIV_MARITIME"/>
+		<Row LeaderType="LEADER_MINOR_CIV_GOA" Name="LOC_CIVILIZATION_GOA_NAME" InheritFrom="LEADER_MINOR_CIV_MARITIME"/>
+		<Row LeaderType="LEADER_MINOR_CIV_SINGAPORE" Name="LOC_CIVILIZATION_SINGAPORE_NAME" InheritFrom="LEADER_MINOR_CIV_MARITIME"/>
+		<Row LeaderType="LEADER_MINOR_CIV_KIEV" Name="LOC_CIVILIZATION_KIEV_NAME" InheritFrom="LEADER_MINOR_CIV_AGRICULTURAL"/>
+		<Row LeaderType="LEADER_MINOR_CIV_HANOI" Name="LOC_CIVILIZATION_HANOI_NAME" InheritFrom="LEADER_MINOR_CIV_AGRICULTURAL"/>
+		<Row LeaderType="LEADER_MINOR_CIV_CAPE_TOWN" Name="LOC_CIVILIZATION_CAPE_TOWN_NAME" InheritFrom="LEADER_MINOR_CIV_AGRICULTURAL"/>
+		<Row LeaderType="LEADER_MINOR_CIV_BOGOTA" Name="LOC_CIVILIZATION_BOGOTA_NAME" InheritFrom="LEADER_MINOR_CIV_AGRICULTURAL"/>
+		<Row LeaderType="LEADER_MINOR_CIV_MERV" Name="LOC_CIVILIZATION_MERV_NAME" InheritFrom="LEADER_MINOR_CIV_AGRICULTURAL"/>
+		<Row LeaderType="LEADER_MINOR_CIV_LAGOS" Name="LOC_CIVILIZATION_LAGOS_NAME" InheritFrom="LEADER_MINOR_CIV_AGRICULTURAL"/>
+	</Leaders>
+	<LeaderTraits>
+		<Row LeaderType="LEADER_MINOR_CIV_VENEZIA" TraitType="MINOR_CIV_VENEZIA_TRAIT"/>
+		<Row LeaderType="LEADER_MINOR_CIV_MOGADISHU" TraitType="MINOR_CIV_MOGADISHU_TRAIT"/>
+		<Row LeaderType="LEADER_MINOR_CIV_TARTESSOS" TraitType="MINOR_CIV_TARTESSOS_TRAIT"/>
+		<Row LeaderType="LEADER_MINOR_CIV_PORT_ROYAL" TraitType="MINOR_CIV_PORT_ROYAL_TRAIT"/>
+		<Row LeaderType="LEADER_MINOR_CIV_GOA" TraitType="MINOR_CIV_GOA_TRAIT"/>
+		<Row LeaderType="LEADER_MINOR_CIV_SINGAPORE" TraitType="MINOR_CIV_SINGAPORE_TRAIT"/>
+		<Row LeaderType="LEADER_MINOR_CIV_KIEV" TraitType="MINOR_CIV_KIEV_TRAIT"/>
+		<Row LeaderType="LEADER_MINOR_CIV_HANOI" TraitType="MINOR_CIV_HANOI_TRAIT"/>
+		<Row LeaderType="LEADER_MINOR_CIV_CAPE_TOWN" TraitType="MINOR_CIV_CAPE_TOWN_TRAIT"/>
+		<Row LeaderType="LEADER_MINOR_CIV_BOGOTA" TraitType="MINOR_CIV_BOGOTA_TRAIT"/>
+		<Row LeaderType="LEADER_MINOR_CIV_MERV" TraitType="MINOR_CIV_MERV_TRAIT"/>
+		<Row LeaderType="LEADER_MINOR_CIV_LAGOS" TraitType="MINOR_CIV_LAGOS_TRAIT"/>
+	</LeaderTraits>
+	<Traits>
+		<Row TraitType= "MINOR_CIV_VENEZIA_TRAIT" Name= "LOC_LEADER_TRAIT_VENEZIA_NAME" Description= "LOC_CIVILIZATION_VENEZIA_DESCRIPTION"/>
+		<Row TraitType= "MINOR_CIV_MOGADISHU_TRAIT" Name= "LOC_LEADER_TRAIT_MOGADISHU_NAME" Description= "LOC_CIVILIZATION_MOGADISHU_DESCRIPTION"/>
+		<Row TraitType= "MINOR_CIV_TARTESSOS_TRAIT" Name= "LOC_LEADER_TRAIT_TARTESSOS_NAME" Description= "LOC_CIVILIZATION_TARTESSOS_DESCRIPTION"/>
+		<Row TraitType= "MINOR_CIV_PORT_ROYAL_TRAIT" Name= "LOC_LEADER_TRAIT_PORT_ROYAL_NAME" Description= "LOC_CIVILIZATION_PORT_ROYAL_DESCRIPTION"/>
+		<Row TraitType= "MINOR_CIV_GOA_TRAIT" Name= "LOC_LEADER_TRAIT_GOA_NAME" Description= "LOC_CIVILIZATION_GOA_DESCRIPTION"/>
+		<Row TraitType= "MINOR_CIV_SINGAPORE_TRAIT" Name= "LOC_LEADER_TRAIT_SINGAPORE_NAME" Description= "LOC_CIVILIZATION_SINGAPORE_DESCRIPTION"/>
+		<Row TraitType= "MINOR_CIV_KIEV_TRAIT" Name= "LOC_LEADER_TRAIT_KIEV_NAME" Description= "LOC_CIVILIZATION_KIEV_DESCRIPTION"/>
+		<Row TraitType= "MINOR_CIV_HANOI_TRAIT" Name= "LOC_LEADER_TRAIT_HANOI_NAME" Description= "LOC_CIVILIZATION_HANOI_DESCRIPTION"/>
+		<Row TraitType= "MINOR_CIV_CAPE_TOWN_TRAIT" Name= "LOC_LEADER_TRAIT_CAPE_TOWN_NAME" Description= "LOC_CIVILIZATION_CAPE_TOWN_DESCRIPTION"/>
+		<Row TraitType= "MINOR_CIV_BOGOTA_TRAIT" Name= "LOC_LEADER_TRAIT_BOGOTA_NAME" Description= "LOC_CIVILIZATION_BOGOTA_DESCRIPTION"/>
+		<Row TraitType= "MINOR_CIV_MERV_TRAIT" Name= "LOC_LEADER_TRAIT_MERV_NAME" Description= "LOC_CIVILIZATION_MERV_DESCRIPTION"/>
+		<Row TraitType= "MINOR_CIV_LAGOS_TRAIT" Name= "LOC_LEADER_TRAIT_LAGOS_NAME" Description= "LOC_CIVILIZATION_LAGOS_DESCRIPTION"/>
+	</Traits>
+	<TraitModifiers>
+		<Row TraitType="MINOR_CIV_VENEZIA_TRAIT" ModifierId="MINOR_CIV_VENEZIA_UNIQUE_INFLUENCE_BONUS"/>
+		<Row TraitType="MINOR_CIV_MOGADISHU_TRAIT" ModifierId="MINOR_CIV_MOGADISHU_UNIQUE_INFLUENCE_BONUS_GALLEY"/>
+		<Row TraitType="MINOR_CIV_MOGADISHU_TRAIT" ModifierId="MINOR_CIV_MOGADISHU_UNIQUE_INFLUENCE_BONUS_CARAVEL"/>
+		<Row TraitType="MINOR_CIV_MOGADISHU_TRAIT" ModifierId="MINOR_CIV_MOGADISHU_UNIQUE_INFLUENCE_BONUS_IRONCLAD"/>
+		<Row TraitType="MINOR_CIV_MOGADISHU_TRAIT" ModifierId="MINOR_CIV_MOGADISHU_UNIQUE_INFLUENCE_BONUS_DESTROYER"/>
+		<Row TraitType="MINOR_CIV_MOGADISHU_TRAIT" ModifierId="MINOR_CIV_MOGADISHU_UNIQUE_INFLUENCE_BONUS_PHOENICIA_BIREME"/>
+		<Row TraitType="MINOR_CIV_MOGADISHU_TRAIT" ModifierId="MINOR_CIV_MOGADISHU_UNIQUE_INFLUENCE_BONUS_NORWEGIAN_LONGSHIP"/>
+		<Row TraitType="MINOR_CIV_TARTESSOS_TRAIT" ModifierId="MINOR_CIV_TARTESSOS_UNIQUE_INFLUENCE_BONUS_HARBOR"/>
+		<Row TraitType="MINOR_CIV_TARTESSOS_TRAIT" ModifierId="MINOR_CIV_TARTESSOS_UNIQUE_INFLUENCE_BONUS_ROYAL_DOCKYARD"/>
+		<Row TraitType="MINOR_CIV_TARTESSOS_TRAIT" ModifierId="MINOR_CIV_TARTESSOS_UNIQUE_INFLUENCE_BONUS_COTHON"/>
+		<Row TraitType="MINOR_CIV_PORT_ROYAL_TRAIT" ModifierId="MINOR_CIV_PORT_ROYAL_UNIQUE_INFLUENCE_BONUS"/>
+		<Row TraitType="MINOR_CIV_GOA_TRAIT" ModifierId="MINOR_CIV_GOA_UNIQUE_INFLUENCE_BONUS"/>
+		<Row TraitType="MINOR_CIV_SINGAPORE_TRAIT" ModifierId="MINOR_CIV_SINGAPORE_UNIQUE_INFLUENCE_BONUS_MARKET"/>
+		<Row TraitType="MINOR_CIV_SINGAPORE_TRAIT" ModifierId="MINOR_CIV_SINGAPORE_UNIQUE_INFLUENCE_BONUS_BANK"/>
+		<Row TraitType="MINOR_CIV_SINGAPORE_TRAIT" ModifierId="MINOR_CIV_SINGAPORE_UNIQUE_INFLUENCE_BONUS_STOCK_EXCHANGE"/>
+		<Row TraitType="MINOR_CIV_SINGAPORE_TRAIT" ModifierId="MINOR_CIV_SINGAPORE_UNIQUE_INFLUENCE_BONUS_SUKIENNICE"/>
+		<Row TraitType="MINOR_CIV_SINGAPORE_TRAIT" ModifierId="MINOR_CIV_SINGAPORE_UNIQUE_INFLUENCE_BONUS_GRAND_BAZAAR"/>
+		<Row TraitType="MINOR_CIV_KIEV_TRAIT" ModifierId="MINOR_CIV_KIEV_UNIQUE_INFLUENCE_BONUS_PLAINS"/>
+		<Row TraitType="MINOR_CIV_KIEV_TRAIT" ModifierId="MINOR_CIV_KIEV_UNIQUE_INFLUENCE_BONUS_PLAINS_HILLS"/>
+		<Row TraitType="MINOR_CIV_HANOI_TRAIT" ModifierId="MINOR_CIV_HANOI_UNIQUE_INFLUENCE_BONUS"/>
+		<Row TraitType="MINOR_CIV_CAPE_TOWN_TRAIT" ModifierId="MINOR_CIV_CAPE_TOWN_UNIQUE_INFLUENCE_BONUS"/>
+		<Row TraitType="MINOR_CIV_BOGOTA_TRAIT" ModifierId="MINOR_CIV_BOGOTA_UNIQUE_INFLUENCE_BONUS"/>
+		<Row TraitType="MINOR_CIV_MERV_TRAIT" ModifierId="MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_HOLY_SITE"/>
+		<Row TraitType="MINOR_CIV_MERV_TRAIT" ModifierId="MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_COMMERCIAL_HUB"/>
+		<Row TraitType="MINOR_CIV_MERV_TRAIT" ModifierId="MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_CITY_CENTER"/>
+		<Row TraitType="MINOR_CIV_MERV_TRAIT" ModifierId="MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_HARBOR"/>
+		<Row TraitType="MINOR_CIV_MERV_TRAIT" ModifierId="MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_THEATER"/>
+		<Row TraitType="MINOR_CIV_MERV_TRAIT" ModifierId="MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_CAMPUS"/>
+		<Row TraitType="MINOR_CIV_MERV_TRAIT" ModifierId="MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_INDUSTRIAL_ZONE"/>
+		<Row TraitType="MINOR_CIV_MERV_TRAIT" ModifierId="MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_ROYAL_NAVY"/>
+		<Row TraitType="MINOR_CIV_MERV_TRAIT" ModifierId="MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_AERODROME"/>
+		<Row TraitType="MINOR_CIV_MERV_TRAIT" ModifierId="MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_ENCAMPMENT"/>
+		<Row TraitType="MINOR_CIV_MERV_TRAIT" ModifierId="MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_ENTERTAINMENT_COMPLEX"/>
+		<Row TraitType="MINOR_CIV_MERV_TRAIT" ModifierId="MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_SPACEPORT"/>
+		<Row TraitType="MINOR_CIV_MERV_TRAIT" ModifierId="MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_NEIGHBORHOOD"/>
+		<Row TraitType="MINOR_CIV_MERV_TRAIT" ModifierId="MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_ACROPOLIS"/>
+		<Row TraitType="MINOR_CIV_MERV_TRAIT" ModifierId="MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_HANSA"/>
+		<Row TraitType="MINOR_CIV_MERV_TRAIT" ModifierId="MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_LAVRA"/>
+		<Row TraitType="MINOR_CIV_MERV_TRAIT" ModifierId="MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_MBANZA"/>
+		<Row TraitType="MINOR_CIV_MERV_TRAIT" ModifierId="MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_STREET_CARNIVAL"/>
+		<Row TraitType="MINOR_CIV_MERV_TRAIT" ModifierId="MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_BATH"/>
+		<Row TraitType="MINOR_CIV_MERV_TRAIT" ModifierId="MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_SEOWON"/>
+		<Row TraitType="MINOR_CIV_MERV_TRAIT" ModifierId="MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_CANAL"/>
+		<Row TraitType="MINOR_CIV_MERV_TRAIT" ModifierId="MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_DAM"/>
+		<Row TraitType="MINOR_CIV_MERV_TRAIT" ModifierId="MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_IKANDA"/>
+		<Row TraitType="MINOR_CIV_MERV_TRAIT" ModifierId="MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_COTHON"/>
+		<Row TraitType="MINOR_CIV_MERV_TRAIT" ModifierId="MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_SUGUBA"/>
+		<Row TraitType="MINOR_CIV_MERV_TRAIT" ModifierId="MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_GOVERNMENT"/>
+		<Row TraitType="MINOR_CIV_MERV_TRAIT" ModifierId="MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_WATER_EC"/>
+		<Row TraitType="MINOR_CIV_MERV_TRAIT" ModifierId="MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_COPACABANA"/>
+		<Row TraitType="MINOR_CIV_LAGOS_TRAIT" ModifierId="MINOR_CIV_LAGOS_UNIQUE_INFLUENCE_BONUS"/>
+	</TraitModifiers>
+	<Modifiers>
+		<!--Venice-->
+		<Row>
+			<ModifierId>MINOR_CIV_VENEZIA_UNIQUE_INFLUENCE_BONUS</ModifierId>
+			<ModifierType>MODIFIER_ALL_PLAYERS_ATTACH_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>PLAYER_IS_SUZERAIN</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_VENEZIA_TRADE_ROUTE_CAPACITY_BONUS</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_DISTRICTS_ADJUST_TRADE_ROUTE_CAPACITY</ModifierType>
+		</Row>
+		<!--Mogadishu-->
+		<Row>
+			<ModifierId>MINOR_CIV_MOGADISHU_UNIQUE_INFLUENCE_BONUS_GALLEY</ModifierId>
+			<ModifierType>MODIFIER_ALL_PLAYERS_ATTACH_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>PLAYER_IS_SUZERAIN</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MOGADISHU_UNIQUE_INFLUENCE_BONUS_CARAVEL</ModifierId>
+			<ModifierType>MODIFIER_ALL_PLAYERS_ATTACH_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>PLAYER_IS_SUZERAIN</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MOGADISHU_UNIQUE_INFLUENCE_BONUS_DESTROYER</ModifierId>
+			<ModifierType>MODIFIER_ALL_PLAYERS_ATTACH_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>PLAYER_IS_SUZERAIN</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MOGADISHU_UNIQUE_INFLUENCE_BONUS_IRONCLAD</ModifierId>
+			<ModifierType>MODIFIER_ALL_PLAYERS_ATTACH_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>PLAYER_IS_SUZERAIN</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MOGADISHU_UNIQUE_INFLUENCE_BONUS_PHOENICIA_BIREME</ModifierId>
+			<ModifierType>MODIFIER_ALL_PLAYERS_ATTACH_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>PLAYER_IS_SUZERAIN</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MOGADISHU_UNIQUE_INFLUENCE_BONUS_NORWEGIAN_LONGSHIP</ModifierId>
+			<ModifierType>MODIFIER_ALL_PLAYERS_ATTACH_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>PLAYER_IS_SUZERAIN</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MOGADISHU_MOVEMENT_BONUS_GALLEY</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNITS_ADJUST_SEA_MOVEMENT</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MOGADISHU_MOVEMENT_BONUS_CARAVEL</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNITS_ADJUST_SEA_MOVEMENT</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MOGADISHU_MOVEMENT_BONUS_DESTROYER</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNITS_ADJUST_SEA_MOVEMENT</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MOGADISHU_MOVEMENT_BONUS_IRONCLAD</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNITS_ADJUST_SEA_MOVEMENT</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MOGADISHU_MOVEMENT_BONUS_PHOENICIA_BIREME</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNITS_ADJUST_SEA_MOVEMENT</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MOGADISHU_MOVEMENT_BONUS_NORWEGIAN_LONGSHIP</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNITS_ADJUST_SEA_MOVEMENT</ModifierType>
+		</Row>
+		<!--Tartessos-->
+		<Row>
+			<ModifierId>MINOR_CIV_TARTESSOS_UNIQUE_INFLUENCE_BONUS_HARBOR</ModifierId>
+			<ModifierType>MODIFIER_ALL_PLAYERS_ATTACH_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>PLAYER_IS_SUZERAIN</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_TARTESSOS_PRODUCTION_BONUS_HARBOR</ModifierId>
+			<ModifierType>MODIFIER_CITY_ADJUST_UNIT_DOMAIN_PRODUCTION</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_TARTESSOS_UNIQUE_INFLUENCE_BONUS_ROYAL_DOCKYARD</ModifierId>
+			<ModifierType>MODIFIER_ALL_PLAYERS_ATTACH_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>PLAYER_IS_SUZERAIN</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_TARTESSOS_PRODUCTION_BONUS_ROYAL_DOCKYARD</ModifierId>
+			<ModifierType>MODIFIER_CITY_ADJUST_UNIT_DOMAIN_PRODUCTION</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_TARTESSOS_UNIQUE_INFLUENCE_BONUS_COTHON</ModifierId>
+			<ModifierType>MODIFIER_ALL_PLAYERS_ATTACH_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>PLAYER_IS_SUZERAIN</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_TARTESSOS_PRODUCTION_BONUS_COTHON</ModifierId>
+			<ModifierType>MODIFIER_CITY_ADJUST_UNIT_DOMAIN_PRODUCTION</ModifierType>
+		</Row>
+		<!--Port Royal-->
+		<Row>
+			<ModifierId>MINOR_CIV_PORT_ROYAL_UNIQUE_INFLUENCE_BONUS</ModifierId>
+			<ModifierType>MODIFIER_ALL_PLAYERS_ATTACH_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>PLAYER_IS_SUZERAIN</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_PORT_ROYAL_PILLAGE_BONUS</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_ADJUST_DISTRICT_PILLAGE</ModifierType>
+		</Row>
+		<Row>
+		<!--Goa-->
+			<ModifierId>MINOR_CIV_GOA_UNIQUE_INFLUENCE_BONUS</ModifierId>
+			<ModifierType>MODIFIER_ALL_PLAYERS_ATTACH_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>PLAYER_IS_SUZERAIN</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_GOA_PLANTATION_BONUS</ModifierId>
+			<ModifierType>MODIFIER_CITY_PLOT_YIELDS_ADJUST_PLOT_YIELD</ModifierType>
+			<SubjectRequirementSetId>PLOT_HAS_PLANTATION_TAG_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<!--Nuku Hiva-->
+		<Row>
+			<ModifierId>MINOR_CIV_SINGAPORE_UNIQUE_INFLUENCE_BONUS_MARKET</ModifierId>
+			<ModifierType>MODIFIER_ALL_PLAYERS_ATTACH_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>PLAYER_IS_SUZERAIN</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_SINGAPORE_CULTURE_BONUS_MARKET</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_ADJUST_BUILDING_YIELD_CHANGE</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_SINGAPORE_UNIQUE_INFLUENCE_BONUS_BANK</ModifierId>
+			<ModifierType>MODIFIER_ALL_PLAYERS_ATTACH_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>PLAYER_IS_SUZERAIN</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_SINGAPORE_CULTURE_BONUS_BANK</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_ADJUST_BUILDING_YIELD_CHANGE</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_SINGAPORE_UNIQUE_INFLUENCE_BONUS_STOCK_EXCHANGE</ModifierId>
+			<ModifierType>MODIFIER_ALL_PLAYERS_ATTACH_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>PLAYER_IS_SUZERAIN</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_SINGAPORE_CULTURE_BONUS_STOCK_EXCHANGE</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_ADJUST_BUILDING_YIELD_CHANGE</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_SINGAPORE_UNIQUE_INFLUENCE_BONUS_SUKIENNICE</ModifierId>
+			<ModifierType>MODIFIER_ALL_PLAYERS_ATTACH_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>PLAYER_IS_SUZERAIN</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_SINGAPORE_CULTURE_BONUS_SUKIENNICE</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_ADJUST_BUILDING_YIELD_CHANGE</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_SINGAPORE_UNIQUE_INFLUENCE_BONUS_GRAND_BAZAAR</ModifierId>
+			<ModifierType>MODIFIER_ALL_PLAYERS_ATTACH_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>PLAYER_IS_SUZERAIN</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_SINGAPORE_CULTURE_BONUS_GRAND_BAZAAR</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_ADJUST_BUILDING_YIELD_CHANGE</ModifierType>
+		</Row>
+		<!--Kiev-->
+		<Row>
+			<ModifierId>MINOR_CIV_KIEV_UNIQUE_INFLUENCE_BONUS_PLAINS</ModifierId>
+			<ModifierType>MODIFIER_ALL_PLAYERS_ATTACH_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>PLAYER_IS_SUZERAIN</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_KIEV_FOOD_PLAINS_BONUS_PLAINS</ModifierId>
+			<ModifierType>MODIFIER_CITY_PLOT_YIELDS_ADJUST_PLOT_YIELD</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_KIEV_UNIQUE_INFLUENCE_BONUS_PLAINS_HILLS</ModifierId>
+			<ModifierType>MODIFIER_ALL_PLAYERS_ATTACH_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>PLAYER_IS_SUZERAIN</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_KIEV_FOOD_PLAINS_BONUS_PLAINS_HILLS</ModifierId>
+			<ModifierType>MODIFIER_CITY_PLOT_YIELDS_ADJUST_PLOT_YIELD</ModifierType>
+		</Row>
+		<!--Hanoi-->
+		<Row>
+			<ModifierId>MINOR_CIV_HANOI_UNIQUE_INFLUENCE_BONUS</ModifierId>
+			<ModifierType>MODIFIER_ALL_PLAYERS_ATTACH_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>PLAYER_IS_SUZERAIN</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_HANOI_WORKER_BONUS</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNITS_ADJUST_BUILDER_CHARGES</ModifierType>
+			<SubjectRequirementSetId>UNIT_IS_BUILDER</SubjectRequirementSetId>
+		</Row>
+		<!--Cape Town-->
+		<Row>
+			<ModifierId>MINOR_CIV_CAPE_TOWN_UNIQUE_INFLUENCE_BONUS</ModifierId>
+			<ModifierType>MODIFIER_ALL_PLAYERS_ATTACH_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>PLAYER_IS_SUZERAIN</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_CAPE_TOWN_CULTURE_BONUS</ModifierId>
+			<ModifierType>MODIFIER_CITY_PLOT_YIELDS_ADJUST_PLOT_YIELD</ModifierType>
+			<SubjectRequirementSetId>PLOT_HAS_CAMP_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<!--Bogotá-->
+		<Row>
+			<ModifierId>MINOR_CIV_BOGOTA_UNIQUE_INFLUENCE_BONUS</ModifierId>
+			<ModifierType>MODIFIER_ALL_PLAYERS_ATTACH_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>PLAYER_IS_SUZERAIN</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_BOGOTA_GOLD_BONUS</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_DISTRICTS_ADJUST_YIELD_CHANGE</ModifierType>
+			<SubjectRequirementSetId>DISTRICT_IS_HOLY_SITE</SubjectRequirementSetId>
+		</Row>
+		<!--Merv-->
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_HOLY_SITE</ModifierId>
+			<ModifierType>MODIFIER_ALL_PLAYERS_ATTACH_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>PLAYER_IS_SUZERAIN</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_HOLY_SITE</ModifierId>
+			<ModifierType>MODIFIER_ALL_CITIES_FEATURE_ADJACENCY</ModifierType>
+			<SubjectRequirementSetId>PLOT_HAS_OASIS_REQUIREMENT</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_COMMERCIAL_HUB</ModifierId>
+			<ModifierType>MODIFIER_ALL_PLAYERS_ATTACH_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>PLAYER_IS_SUZERAIN</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_COMMERCIAL_HUB</ModifierId>
+			<ModifierType>MODIFIER_ALL_CITIES_FEATURE_ADJACENCY</ModifierType>
+			<SubjectRequirementSetId>PLOT_HAS_OASIS_REQUIREMENT</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_CITY_CENTER</ModifierId>
+			<ModifierType>MODIFIER_ALL_PLAYERS_ATTACH_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>PLAYER_IS_SUZERAIN</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_CITY_CENTER</ModifierId>
+			<ModifierType>MODIFIER_ALL_CITIES_FEATURE_ADJACENCY</ModifierType>
+			<SubjectRequirementSetId>PLOT_HAS_OASIS_REQUIREMENT</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_HARBOR</ModifierId>
+			<ModifierType>MODIFIER_ALL_PLAYERS_ATTACH_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>PLAYER_IS_SUZERAIN</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_HARBOR</ModifierId>
+			<ModifierType>MODIFIER_ALL_CITIES_FEATURE_ADJACENCY</ModifierType>
+			<SubjectRequirementSetId>PLOT_HAS_OASIS_REQUIREMENT</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_THEATER</ModifierId>
+			<ModifierType>MODIFIER_ALL_PLAYERS_ATTACH_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>PLAYER_IS_SUZERAIN</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_THEATER</ModifierId>
+			<ModifierType>MODIFIER_ALL_CITIES_FEATURE_ADJACENCY</ModifierType>
+			<SubjectRequirementSetId>PLOT_HAS_OASIS_REQUIREMENT</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_CAMPUS</ModifierId>
+			<ModifierType>MODIFIER_ALL_PLAYERS_ATTACH_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>PLAYER_IS_SUZERAIN</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_CAMPUS</ModifierId>
+			<ModifierType>MODIFIER_ALL_CITIES_FEATURE_ADJACENCY</ModifierType>
+			<SubjectRequirementSetId>PLOT_HAS_OASIS_REQUIREMENT</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_INDUSTRIAL_ZONE</ModifierId>
+			<ModifierType>MODIFIER_ALL_PLAYERS_ATTACH_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>PLAYER_IS_SUZERAIN</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_INDUSTRIAL_ZONE</ModifierId>
+			<ModifierType>MODIFIER_ALL_CITIES_FEATURE_ADJACENCY</ModifierType>
+			<SubjectRequirementSetId>PLOT_HAS_OASIS_REQUIREMENT</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_ROYAL_NAVY</ModifierId>
+			<ModifierType>MODIFIER_ALL_PLAYERS_ATTACH_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>PLAYER_IS_SUZERAIN</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_ROYAL_NAVY</ModifierId>
+			<ModifierType>MODIFIER_ALL_CITIES_FEATURE_ADJACENCY</ModifierType>
+			<SubjectRequirementSetId>PLOT_HAS_OASIS_REQUIREMENT</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_AERODROME</ModifierId>
+			<ModifierType>MODIFIER_ALL_PLAYERS_ATTACH_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>PLAYER_IS_SUZERAIN</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_AERODROME</ModifierId>
+			<ModifierType>MODIFIER_ALL_CITIES_FEATURE_ADJACENCY</ModifierType>
+			<SubjectRequirementSetId>PLOT_HAS_OASIS_REQUIREMENT</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_AQUEDUCT</ModifierId>
+			<ModifierType>MODIFIER_ALL_PLAYERS_ATTACH_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>PLAYER_IS_SUZERAIN</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_AQUEDUCT</ModifierId>
+			<ModifierType>MODIFIER_ALL_CITIES_FEATURE_ADJACENCY</ModifierType>
+			<SubjectRequirementSetId>PLOT_HAS_OASIS_REQUIREMENT</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_ENCAMPMENT</ModifierId>
+			<ModifierType>MODIFIER_ALL_PLAYERS_ATTACH_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>PLAYER_IS_SUZERAIN</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_ENCAMPMENT</ModifierId>
+			<ModifierType>MODIFIER_ALL_CITIES_FEATURE_ADJACENCY</ModifierType>
+			<SubjectRequirementSetId>PLOT_HAS_OASIS_REQUIREMENT</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_ENTERTAINMENT_COMPLEX</ModifierId>
+			<ModifierType>MODIFIER_ALL_PLAYERS_ATTACH_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>PLAYER_IS_SUZERAIN</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_ENTERTAINMENT_COMPLEX</ModifierId>
+			<ModifierType>MODIFIER_ALL_CITIES_FEATURE_ADJACENCY</ModifierType>
+			<SubjectRequirementSetId>PLOT_HAS_OASIS_REQUIREMENT</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_SPACEPORT</ModifierId>
+			<ModifierType>MODIFIER_ALL_PLAYERS_ATTACH_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>PLAYER_IS_SUZERAIN</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_SPACEPORT</ModifierId>
+			<ModifierType>MODIFIER_ALL_CITIES_FEATURE_ADJACENCY</ModifierType>
+			<SubjectRequirementSetId>PLOT_HAS_OASIS_REQUIREMENT</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_NEIGHBORHOOD</ModifierId>
+			<ModifierType>MODIFIER_ALL_PLAYERS_ATTACH_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>PLAYER_IS_SUZERAIN</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_NEIGHBORHOOD</ModifierId>
+			<ModifierType>MODIFIER_ALL_CITIES_FEATURE_ADJACENCY</ModifierType>
+			<SubjectRequirementSetId>PLOT_HAS_OASIS_REQUIREMENT</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_ACROPOLIS</ModifierId>
+			<ModifierType>MODIFIER_ALL_PLAYERS_ATTACH_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>PLAYER_IS_SUZERAIN</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_ACROPOLIS</ModifierId>
+			<ModifierType>MODIFIER_ALL_CITIES_FEATURE_ADJACENCY</ModifierType>
+			<SubjectRequirementSetId>PLOT_HAS_OASIS_REQUIREMENT</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_HANSA</ModifierId>
+			<ModifierType>MODIFIER_ALL_PLAYERS_ATTACH_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>PLAYER_IS_SUZERAIN</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_HANSA</ModifierId>
+			<ModifierType>MODIFIER_ALL_CITIES_FEATURE_ADJACENCY</ModifierType>
+			<SubjectRequirementSetId>PLOT_HAS_OASIS_REQUIREMENT</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_LAVRA</ModifierId>
+			<ModifierType>MODIFIER_ALL_PLAYERS_ATTACH_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>PLAYER_IS_SUZERAIN</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_LAVRA</ModifierId>
+			<ModifierType>MODIFIER_ALL_CITIES_FEATURE_ADJACENCY</ModifierType>
+			<SubjectRequirementSetId>PLOT_HAS_OASIS_REQUIREMENT</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_MBANZA</ModifierId>
+			<ModifierType>MODIFIER_ALL_PLAYERS_ATTACH_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>PLAYER_IS_SUZERAIN</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_MBANZA</ModifierId>
+			<ModifierType>MODIFIER_ALL_CITIES_FEATURE_ADJACENCY</ModifierType>
+			<SubjectRequirementSetId>PLOT_HAS_OASIS_REQUIREMENT</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_STREET_CARNIVAL</ModifierId>
+			<ModifierType>MODIFIER_ALL_PLAYERS_ATTACH_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>PLAYER_IS_SUZERAIN</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_STREET_CARNIVAL</ModifierId>
+			<ModifierType>MODIFIER_ALL_CITIES_FEATURE_ADJACENCY</ModifierType>
+			<SubjectRequirementSetId>PLOT_HAS_OASIS_REQUIREMENT</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_BATH</ModifierId>
+			<ModifierType>MODIFIER_ALL_PLAYERS_ATTACH_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>PLAYER_IS_SUZERAIN</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_BATH</ModifierId>
+			<ModifierType>MODIFIER_ALL_CITIES_FEATURE_ADJACENCY</ModifierType>
+			<SubjectRequirementSetId>PLOT_HAS_OASIS_REQUIREMENT</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_SEOWON</ModifierId>
+			<ModifierType>MODIFIER_ALL_PLAYERS_ATTACH_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>PLAYER_IS_SUZERAIN</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_SEOWON</ModifierId>
+			<ModifierType>MODIFIER_ALL_CITIES_FEATURE_ADJACENCY</ModifierType>
+			<SubjectRequirementSetId>PLOT_HAS_OASIS_REQUIREMENT</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_CANAL</ModifierId>
+			<ModifierType>MODIFIER_ALL_PLAYERS_ATTACH_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>PLAYER_IS_SUZERAIN</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_CANAL</ModifierId>
+			<ModifierType>MODIFIER_ALL_CITIES_FEATURE_ADJACENCY</ModifierType>
+			<SubjectRequirementSetId>PLOT_HAS_OASIS_REQUIREMENT</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_DAM</ModifierId>
+			<ModifierType>MODIFIER_ALL_PLAYERS_ATTACH_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>PLAYER_IS_SUZERAIN</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_DAM</ModifierId>
+			<ModifierType>MODIFIER_ALL_CITIES_FEATURE_ADJACENCY</ModifierType>
+			<SubjectRequirementSetId>PLOT_HAS_OASIS_REQUIREMENT</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_IKANDA</ModifierId>
+			<ModifierType>MODIFIER_ALL_PLAYERS_ATTACH_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>PLAYER_IS_SUZERAIN</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_IKANDA</ModifierId>
+			<ModifierType>MODIFIER_ALL_CITIES_FEATURE_ADJACENCY</ModifierType>
+			<SubjectRequirementSetId>PLOT_HAS_OASIS_REQUIREMENT</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_COTHON</ModifierId>
+			<ModifierType>MODIFIER_ALL_PLAYERS_ATTACH_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>PLAYER_IS_SUZERAIN</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_COTHON</ModifierId>
+			<ModifierType>MODIFIER_ALL_CITIES_FEATURE_ADJACENCY</ModifierType>
+			<SubjectRequirementSetId>PLOT_HAS_OASIS_REQUIREMENT</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_SUGUBA</ModifierId>
+			<ModifierType>MODIFIER_ALL_PLAYERS_ATTACH_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>PLAYER_IS_SUZERAIN</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_SUGUBA</ModifierId>
+			<ModifierType>MODIFIER_ALL_CITIES_FEATURE_ADJACENCY</ModifierType>
+			<SubjectRequirementSetId>PLOT_HAS_OASIS_REQUIREMENT</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_GOVERNMENT</ModifierId>
+			<ModifierType>MODIFIER_ALL_PLAYERS_ATTACH_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>PLAYER_IS_SUZERAIN</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_GOVERNMENT</ModifierId>
+			<ModifierType>MODIFIER_ALL_CITIES_FEATURE_ADJACENCY</ModifierType>
+			<SubjectRequirementSetId>PLOT_HAS_OASIS_REQUIREMENT</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_WATER_EC</ModifierId>
+			<ModifierType>MODIFIER_ALL_PLAYERS_ATTACH_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>PLAYER_IS_SUZERAIN</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_WATER_EC</ModifierId>
+			<ModifierType>MODIFIER_ALL_CITIES_FEATURE_ADJACENCY</ModifierType>
+			<SubjectRequirementSetId>PLOT_HAS_OASIS_REQUIREMENT</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_COPACABANA</ModifierId>
+			<ModifierType>MODIFIER_ALL_PLAYERS_ATTACH_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>PLAYER_IS_SUZERAIN</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_COPACABANA</ModifierId>
+			<ModifierType>MODIFIER_ALL_CITIES_FEATURE_ADJACENCY</ModifierType>
+			<SubjectRequirementSetId>PLOT_HAS_OASIS_REQUIREMENT</SubjectRequirementSetId>
+		</Row>
+		<!--Lagos-->
+		<Row>
+			<ModifierId>MINOR_CIV_LAGOS_UNIQUE_INFLUENCE_BONUS</ModifierId>
+			<ModifierType>MODIFIER_ALL_PLAYERS_ATTACH_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>PLAYER_IS_SUZERAIN</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_LAGOS_FOOD_BONUS</ModifierId>
+			<ModifierType>MODIFIER_CITY_PLOT_YIELDS_ADJUST_PLOT_YIELD</ModifierType>
+			<SubjectRequirementSetId>PLOT_HAS_COAST_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+	</Modifiers>
+	<ModifierArguments>
+		<!--Venice-->
+		<Row>
+			<ModifierId>MINOR_CIV_VENEZIA_UNIQUE_INFLUENCE_BONUS</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MINOR_CIV_VENEZIA_TRADE_ROUTE_CAPACITY_BONUS</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_VENEZIA_TRADE_ROUTE_CAPACITY_BONUS</ModifierId>
+			<Name>DistrictType</Name>
+			<Value>DISTRICT_HARBOR</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_VENEZIA_TRADE_ROUTE_CAPACITY_BONUS</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<!--Mogadishu-->
+		<Row>
+			<ModifierId>MINOR_CIV_MOGADISHU_UNIQUE_INFLUENCE_BONUS_GALLEY</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MINOR_CIV_MOGADISHU_MOVEMENT_BONUS_GALLEY</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MOGADISHU_MOVEMENT_BONUS_GALLEY</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MOGADISHU_MOVEMENT_BONUS_GALLEY</ModifierId>
+			<Name>UnitType</Name>
+			<Value>UNIT_GALLEY</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MOGADISHU_UNIQUE_INFLUENCE_BONUS_CARAVEL</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MINOR_CIV_MOGADISHU_MOVEMENT_BONUS_CARAVEL</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MOGADISHU_MOVEMENT_BONUS_CARAVEL</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MOGADISHU_MOVEMENT_BONUS_CARAVEL</ModifierId>
+			<Name>UnitType</Name>
+			<Value>UNIT_CARAVEL</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MOGADISHU_UNIQUE_INFLUENCE_BONUS_IRONCLAD</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MINOR_CIV_MOGADISHU_MOVEMENT_BONUS_IRONCLAD</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MOGADISHU_MOVEMENT_BONUS_IRONCLAD</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MOGADISHU_MOVEMENT_BONUS_IRONCLAD</ModifierId>
+			<Name>UnitType</Name>
+			<Value>UNIT_IRONCLAD</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MOGADISHU_UNIQUE_INFLUENCE_BONUS_DESTROYER</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MINOR_CIV_MOGADISHU_MOVEMENT_BONUS_DESTROYER</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MOGADISHU_MOVEMENT_BONUS_DESTROYER</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MOGADISHU_MOVEMENT_BONUS_DESTROYER</ModifierId>
+			<Name>UnitType</Name>
+			<Value>UNIT_DESTROYER</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MOGADISHU_UNIQUE_INFLUENCE_BONUS_PHOENICIA_BIREME</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MINOR_CIV_MOGADISHU_MOVEMENT_BONUS_PHOENICIA_BIREME</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MOGADISHU_MOVEMENT_BONUS_PHOENICIA_BIREME</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MOGADISHU_MOVEMENT_BONUS_PHOENICIA_BIREME</ModifierId>
+			<Name>UnitType</Name>
+			<Value>UNIT_PHOENICIA_BIREME</Value>
+		</Row>
+		<!--Tartessos-->
+		<Row>
+			<ModifierId>MINOR_CIV_TARTESSOS_UNIQUE_INFLUENCE_BONUS_HARBOR</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MINOR_CIV_TARTESSOS_PRODUCTION_BONUS_HARBOR</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_TARTESSOS_PRODUCTION_BONUS_HARBOR</ModifierId>
+			<Name>Amount</Name>
+			<Value>15</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_TARTESSOS_PRODUCTION_BONUS_HARBOR</ModifierId>
+			<Name>DistrictType</Name>
+			<Value>DISTRICT_HARBOR</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_TARTESSOS_UNIQUE_INFLUENCE_BONUS_ROYAL_DOCKYARD</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MINOR_CIV_TARTESSOS_PRODUCTION_BONUS_ROYAL_DOCKYARD</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_TARTESSOS_PRODUCTION_BONUS_ROYAL_DOCKYARD</ModifierId>
+			<Name>Amount</Name>
+			<Value>15</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_TARTESSOS_PRODUCTION_BONUS_ROYAL_DOCKYARD</ModifierId>
+			<Name>DistrictType</Name>
+			<Value>DISTRICT_ROYAL_NAVY_DOCKYARD</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_TARTESSOS_UNIQUE_INFLUENCE_BONUS_COTHON</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MINOR_CIV_TARTESSOS_PRODUCTION_BONUS_COTHON</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_TARTESSOS_PRODUCTION_BONUS_COTHON</ModifierId>
+			<Name>Amount</Name>
+			<Value>65</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_TARTESSOS_PRODUCTION_BONUS_COTHON</ModifierId>
+			<Name>DistrictType</Name>
+			<Value>DISTRICT_COTHON</Value>
+		</Row>
+		<!--Port Royal-->
+		<Row>
+			<ModifierId>MINOR_CIV_PORT_ROYAL_UNIQUE_INFLUENCE_BONUS</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MINOR_CIV_PORT_ROYAL_PILLAGE_BONUS</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_PORT_ROYAL_PILLAGE_BONUS</ModifierId>
+			<Name>Amount</Name>
+			<Value>3</Value>
+		</Row>
+		<!--Goa-->
+		<Row>
+			<ModifierId>MINOR_CIV_GOA_UNIQUE_INFLUENCE_BONUS</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MINOR_CIV_GOA_PLANTATION_BONUS</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_GOA_PLANTATION_BONUS</ModifierId>
+			<Name>ImprovementType</Name>
+			<Value>IMPROVEMENT_PLANTATION</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_GOA_PLANTATION_BONUS</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_GOLD</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_GOA_PLANTATION_BONUS</ModifierId>
+			<Name>Amount</Name>
+			<Value>2</Value>
+		</Row>
+		<!--Nuku Hiva-->
+		<Row>
+			<ModifierId>MINOR_CIV_SINGAPORE_UNIQUE_INFLUENCE_BONUS_MARKET</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MINOR_CIV_SINGAPORE_CULTURE_BONUS_MARKET</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_SINGAPORE_CULTURE_BONUS_MARKET</ModifierId>
+			<Name>BuildingType</Name>
+			<Value>BUILDING_MARKET</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_SINGAPORE_CULTURE_BONUS_MARKET</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_CULTURE</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_SINGAPORE_CULTURE_BONUS_MARKET</ModifierId>
+			<Name>Amount</Name>
+			<Value>2</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_SINGAPORE_UNIQUE_INFLUENCE_BONUS_BANK</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MINOR_CIV_SINGAPORE_CULTURE_BONUS_BANK</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_SINGAPORE_CULTURE_BONUS_BANK</ModifierId>
+			<Name>BuildingType</Name>
+			<Value>BUILDING_BANK</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_SINGAPORE_CULTURE_BONUS_BANK</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_CULTURE</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_SINGAPORE_CULTURE_BONUS_BANK</ModifierId>
+			<Name>Amount</Name>
+			<Value>2</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_SINGAPORE_UNIQUE_INFLUENCE_BONUS_STOCK_EXCHANGE</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MINOR_CIV_SINGAPORE_CULTURE_BONUS_STOCK_EXCHANGE</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_SINGAPORE_CULTURE_BONUS_STOCK_EXCHANGE</ModifierId>
+			<Name>BuildingType</Name>
+			<Value>BUILDING_STOCK_EXCHANGE</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_SINGAPORE_CULTURE_BONUS_STOCK_EXCHANGE</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_CULTURE</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_SINGAPORE_CULTURE_BONUS_STOCK_EXCHANGE</ModifierId>
+			<Name>Amount</Name>
+			<Value>2</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_SINGAPORE_UNIQUE_INFLUENCE_BONUS_SUKIENNICE</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MINOR_CIV_SINGAPORE_CULTURE_BONUS_SUKIENNICE</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_SINGAPORE_CULTURE_BONUS_SUKIENNICE</ModifierId>
+			<Name>BuildingType</Name>
+			<Value>BUILDING_SUKIENNICE</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_SINGAPORE_CULTURE_BONUS_SUKIENNICE</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_CULTURE</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_SINGAPORE_CULTURE_BONUS_SUKIENNICE</ModifierId>
+			<Name>Amount</Name>
+			<Value>2</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_SINGAPORE_UNIQUE_INFLUENCE_BONUS_GRAND_BAZAAR</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MINOR_CIV_SINGAPORE_CULTURE_BONUS_GRAND_BAZAAR</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_SINGAPORE_CULTURE_BONUS_GRAND_BAZAAR</ModifierId>
+			<Name>BuildingType</Name>
+			<Value>BUILDING_GRAND_BAZAAR</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_SINGAPORE_CULTURE_BONUS_GRAND_BAZAAR</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_CULTURE</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_SINGAPORE_CULTURE_BONUS_GRAND_BAZAAR</ModifierId>
+			<Name>Amount</Name>
+			<Value>2</Value>
+		</Row>
+		<!--Kiev-->
+		<Row>
+			<ModifierId>MINOR_CIV_KIEV_UNIQUE_INFLUENCE_BONUS_PLAINS</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MINOR_CIV_KIEV_FOOD_PLAINS_BONUS_PLAINS</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_KIEV_FOOD_PLAINS_BONUS_PLAINS</ModifierId>
+			<Name>TerrainType</Name>
+			<Value>TERRAIN_PLAINS</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_KIEV_FOOD_PLAINS_BONUS_PLAINS</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_FOOD</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_KIEV_FOOD_PLAINS_BONUS_PLAINS</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_KIEV_UNIQUE_INFLUENCE_BONUS_PLAINS_HILLS</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MINOR_CIV_KIEV_FOOD_PLAINS_BONUS_PLAINS_HILLS</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_KIEV_FOOD_PLAINS_BONUS_PLAINS_HILLS</ModifierId>
+			<Name>TerrainType</Name>
+			<Value>TERRAIN_PLAINS_HILLS</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_KIEV_FOOD_PLAINS_BONUS_PLAINS_HILLS</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_FOOD</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_KIEV_FOOD_PLAINS_BONUS_PLAINS_HILLS</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<!--Hanoi-->
+		<Row>
+			<ModifierId>MINOR_CIV_HANOI_UNIQUE_INFLUENCE_BONUS</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MINOR_CIV_HANOI_WORKER_BONUS</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_HANOI_WORKER_BONUS</ModifierId>
+			<Name>UnitType</Name>
+			<Value>UNIT_BUILDER</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_HANOI_WORKER_BONUS</ModifierId>
+			<Name>Amount</Name>
+			<Value>2</Value>
+		</Row>
+		<!--Cape Town-->
+		<Row>
+			<ModifierId>MINOR_CIV_CAPE_TOWN_UNIQUE_INFLUENCE_BONUS</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MINOR_CIV_CAPE_TOWN_CULTURE_BONUS</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_CAPE_TOWN_CULTURE_BONUS</ModifierId>
+			<Name>ImprovementType</Name>
+			<Value>IMPROVEMENT_CAMP</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_CAPE_TOWN_CULTURE_BONUS</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_CULTURE</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_CAPE_TOWN_CULTURE_BONUS</ModifierId>
+			<Name>Amount</Name>
+			<Value>2</Value>
+		</Row>
+		<!--Bogotá-->
+		<Row>
+			<ModifierId>MINOR_CIV_BOGOTA_UNIQUE_INFLUENCE_BONUS</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MINOR_CIV_BOGOTA_GOLD_BONUS</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_BOGOTA_GOLD_BONUS</ModifierId>
+			<Name>DistrictType</Name>
+			<Value>DISTRICT_HOLY_SITE</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_BOGOTA_GOLD_BONUS</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_GOLD</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_BOGOTA_GOLD_BONUS</ModifierId>
+			<Name>Amount</Name>
+			<Value>2</Value>
+		</Row>
+		<!--Merv-->
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_HOLY_SITE</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MINOR_CIV_MERV_CULTURE_BONUS_HOLY_SITE</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_HOLY_SITE</ModifierId>
+			<Name>FeatureType</Name>
+			<Value>FEATURE_OASIS</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_HOLY_SITE</ModifierId>
+			<Name>DistrictType</Name>
+			<Value>DISTRICT_HOLY_SITE</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_HOLY_SITE</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_CULTURE</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_HOLY_SITE</ModifierId>
+			<Name>Amount</Name>
+			<Value>4</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_COMMERCIAL_HUB</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MINOR_CIV_MERV_CULTURE_BONUS_COMMERCIAL_HUB</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_COMMERCIAL_HUB</ModifierId>
+			<Name>FeatureType</Name>
+			<Value>FEATURE_OASIS</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_COMMERCIAL_HUB</ModifierId>
+			<Name>DistrictType</Name>
+			<Value>DISTRICT_COMMERCIAL_HUB</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_COMMERCIAL_HUB</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_CULTURE</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_COMMERCIAL_HUB</ModifierId>
+			<Name>Amount</Name>
+			<Value>4</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_CITY_CENTER</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MINOR_CIV_MERV_CULTURE_BONUS_CITY_CENTER</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_CITY_CENTER</ModifierId>
+			<Name>FeatureType</Name>
+			<Value>FEATURE_OASIS</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_CITY_CENTER</ModifierId>
+			<Name>DistrictType</Name>
+			<Value>DISTRICT_CITY_CENTER</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_CITY_CENTER</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_CULTURE</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_CITY_CENTER</ModifierId>
+			<Name>Amount</Name>
+			<Value>4</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_HARBOR</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MINOR_CIV_MERV_CULTURE_BONUS_HARBOR</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_HARBOR</ModifierId>
+			<Name>FeatureType</Name>
+			<Value>FEATURE_OASIS</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_HARBOR</ModifierId>
+			<Name>DistrictType</Name>
+			<Value>DISTRICT_HARBOR</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_HARBOR</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_CULTURE</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_HARBOR</ModifierId>
+			<Name>Amount</Name>
+			<Value>4</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_THEATER</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MINOR_CIV_MERV_CULTURE_BONUS_THEATER</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_THEATER</ModifierId>
+			<Name>FeatureType</Name>
+			<Value>FEATURE_OASIS</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_THEATER</ModifierId>
+			<Name>DistrictType</Name>
+			<Value>DISTRICT_THEATER</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_THEATER</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_CULTURE</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_THEATER</ModifierId>
+			<Name>Amount</Name>
+			<Value>4</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_CAMPUS</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MINOR_CIV_MERV_CULTURE_BONUS_CAMPUS</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_CAMPUS</ModifierId>
+			<Name>FeatureType</Name>
+			<Value>FEATURE_OASIS</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_CAMPUS</ModifierId>
+			<Name>DistrictType</Name>
+			<Value>DISTRICT_CAMPUS</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_CAMPUS</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_CULTURE</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_CAMPUS</ModifierId>
+			<Name>Amount</Name>
+			<Value>4</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_INDUSTRIAL_ZONE</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MINOR_CIV_MERV_CULTURE_BONUS_INDUSTRIAL_ZONE</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_INDUSTRIAL_ZONE</ModifierId>
+			<Name>FeatureType</Name>
+			<Value>FEATURE_OASIS</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_INDUSTRIAL_ZONE</ModifierId>
+			<Name>DistrictType</Name>
+			<Value>DISTRICT_INDUSTRIAL_ZONE</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_INDUSTRIAL_ZONE</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_CULTURE</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_INDUSTRIAL_ZONE</ModifierId>
+			<Name>Amount</Name>
+			<Value>4</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_ROYAL_NAVY</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MINOR_CIV_MERV_CULTURE_BONUS_ROYAL_NAVY</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_ROYAL_NAVY</ModifierId>
+			<Name>FeatureType</Name>
+			<Value>FEATURE_OASIS</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_ROYAL_NAVY</ModifierId>
+			<Name>DistrictType</Name>
+			<Value>DISTRICT_ROYAL_NAVY_DOCKYARD</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_ROYAL_NAVY</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_CULTURE</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_ROYAL_NAVY</ModifierId>
+			<Name>Amount</Name>
+			<Value>4</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_AERODROME</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MINOR_CIV_MERV_CULTURE_BONUS_AERODROME</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_AERODROME</ModifierId>
+			<Name>FeatureType</Name>
+			<Value>FEATURE_OASIS</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_AERODROME</ModifierId>
+			<Name>DistrictType</Name>
+			<Value>DISTRICT_AERODROME</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_AERODROME</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_CULTURE</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_AERODROME</ModifierId>
+			<Name>Amount</Name>
+			<Value>4</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_AQUEDUCT</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MINOR_CIV_MERV_CULTURE_BONUS_AQUEDUCT</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_AQUEDUCT</ModifierId>
+			<Name>FeatureType</Name>
+			<Value>FEATURE_OASIS</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_AQUEDUCT</ModifierId>
+			<Name>DistrictType</Name>
+			<Value>DISTRICT_AQUEDUCT</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_AQUEDUCT</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_CULTURE</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_AQUEDUCT</ModifierId>
+			<Name>Amount</Name>
+			<Value>4</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_ENCAMPMENT</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MINOR_CIV_MERV_CULTURE_BONUS_ENCAMPMENT</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_ENCAMPMENT</ModifierId>
+			<Name>FeatureType</Name>
+			<Value>FEATURE_OASIS</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_ENCAMPMENT</ModifierId>
+			<Name>DistrictType</Name>
+			<Value>DISTRICT_ENCAMPMENT</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_ENCAMPMENT</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_CULTURE</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_ENCAMPMENT</ModifierId>
+			<Name>Amount</Name>
+			<Value>4</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_ENTERTAINMENT_COMPLEX</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MINOR_CIV_MERV_CULTURE_BONUS_ENTERTAINMENT_COMPLEX</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_ENTERTAINMENT_COMPLEX</ModifierId>
+			<Name>FeatureType</Name>
+			<Value>FEATURE_OASIS</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_ENTERTAINMENT_COMPLEX</ModifierId>
+			<Name>DistrictType</Name>
+			<Value>DISTRICT_ENTERTAINMENT_COMPLEX</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_ENTERTAINMENT_COMPLEX</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_CULTURE</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_ENTERTAINMENT_COMPLEX</ModifierId>
+			<Name>Amount</Name>
+			<Value>4</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_SPACEPORT</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MINOR_CIV_MERV_CULTURE_BONUS_SPACEPORT</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_SPACEPORT</ModifierId>
+			<Name>FeatureType</Name>
+			<Value>FEATURE_OASIS</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_SPACEPORT</ModifierId>
+			<Name>DistrictType</Name>
+			<Value>DISTRICT_SPACEPORT</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_SPACEPORT</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_CULTURE</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_SPACEPORT</ModifierId>
+			<Name>Amount</Name>
+			<Value>4</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_NEIGHBORHOOD</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MINOR_CIV_MERV_CULTURE_BONUS_NEIGHBORHOOD</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_NEIGHBORHOOD</ModifierId>
+			<Name>FeatureType</Name>
+			<Value>FEATURE_OASIS</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_NEIGHBORHOOD</ModifierId>
+			<Name>DistrictType</Name>
+			<Value>DISTRICT_NEIGHBORHOOD</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_NEIGHBORHOOD</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_CULTURE</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_NEIGHBORHOOD</ModifierId>
+			<Name>Amount</Name>
+			<Value>4</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_ACROPOLIS</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MINOR_CIV_MERV_CULTURE_BONUS_ACROPOLIS</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_ACROPOLIS</ModifierId>
+			<Name>FeatureType</Name>
+			<Value>FEATURE_OASIS</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_ACROPOLIS</ModifierId>
+			<Name>DistrictType</Name>
+			<Value>DISTRICT_ACROPOLIS</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_ACROPOLIS</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_CULTURE</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_ACROPOLIS</ModifierId>
+			<Name>Amount</Name>
+			<Value>4</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_HANSA</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MINOR_CIV_MERV_CULTURE_BONUS_HANSA</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_HANSA</ModifierId>
+			<Name>FeatureType</Name>
+			<Value>FEATURE_OASIS</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_HANSA</ModifierId>
+			<Name>DistrictType</Name>
+			<Value>DISTRICT_HANSA</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_HANSA</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_CULTURE</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_HANSA</ModifierId>
+			<Name>Amount</Name>
+			<Value>4</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_LAVRA</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MINOR_CIV_MERV_CULTURE_BONUS_LAVRA</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_LAVRA</ModifierId>
+			<Name>FeatureType</Name>
+			<Value>FEATURE_OASIS</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_LAVRA</ModifierId>
+			<Name>DistrictType</Name>
+			<Value>DISTRICT_LAVRA</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_LAVRA</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_CULTURE</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_LAVRA</ModifierId>
+			<Name>Amount</Name>
+			<Value>4</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_MBANZA</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MINOR_CIV_MERV_CULTURE_BONUS_MBANZA</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_MBANZA</ModifierId>
+			<Name>FeatureType</Name>
+			<Value>FEATURE_OASIS</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_MBANZA</ModifierId>
+			<Name>DistrictType</Name>
+			<Value>DISTRICT_MBANZA</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_MBANZA</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_CULTURE</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_MBANZA</ModifierId>
+			<Name>Amount</Name>
+			<Value>4</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_STREET_CARNIVAL</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MINOR_CIV_MERV_CULTURE_BONUS_STREET_CARNIVAL</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_STREET_CARNIVAL</ModifierId>
+			<Name>FeatureType</Name>
+			<Value>FEATURE_OASIS</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_STREET_CARNIVAL</ModifierId>
+			<Name>DistrictType</Name>
+			<Value>DISTRICT_STREET_CARNIVAL</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_STREET_CARNIVAL</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_CULTURE</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_STREET_CARNIVAL</ModifierId>
+			<Name>Amount</Name>
+			<Value>4</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_BATH</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MINOR_CIV_MERV_CULTURE_BONUS_BATH</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_BATH</ModifierId>
+			<Name>FeatureType</Name>
+			<Value>FEATURE_OASIS</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_BATH</ModifierId>
+			<Name>DistrictType</Name>
+			<Value>DISTRICT_BATH</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_BATH</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_CULTURE</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_BATH</ModifierId>
+			<Name>Amount</Name>
+			<Value>4</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_SEOWON</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MINOR_CIV_MERV_CULTURE_BONUS_SEOWON</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_SEOWON</ModifierId>
+			<Name>FeatureType</Name>
+			<Value>FEATURE_OASIS</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_SEOWON</ModifierId>
+			<Name>DistrictType</Name>
+			<Value>DISTRICT_SEOWON</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_SEOWON</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_CULTURE</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_SEOWON</ModifierId>
+			<Name>Amount</Name>
+			<Value>4</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_CANAL</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MINOR_CIV_MERV_CULTURE_BONUS_CANAL</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_CANAL</ModifierId>
+			<Name>FeatureType</Name>
+			<Value>FEATURE_OASIS</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_CANAL</ModifierId>
+			<Name>DistrictType</Name>
+			<Value>DISTRICT_CANAL</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_CANAL</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_CULTURE</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_CANAL</ModifierId>
+			<Name>Amount</Name>
+			<Value>4</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_DAM</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MINOR_CIV_MERV_CULTURE_BONUS_DAM</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_DAM</ModifierId>
+			<Name>FeatureType</Name>
+			<Value>FEATURE_OASIS</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_DAM</ModifierId>
+			<Name>DistrictType</Name>
+			<Value>DISTRICT_DAM</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_DAM</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_CULTURE</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_DAM</ModifierId>
+			<Name>Amount</Name>
+			<Value>4</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_IKANDA</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MINOR_CIV_MERV_CULTURE_BONUS_IKANDA</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_IKANDA</ModifierId>
+			<Name>FeatureType</Name>
+			<Value>FEATURE_OASIS</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_IKANDA</ModifierId>
+			<Name>DistrictType</Name>
+			<Value>DISTRICT_IKANDA</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_IKANDA</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_CULTURE</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_IKANDA</ModifierId>
+			<Name>Amount</Name>
+			<Value>4</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_COTHON</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MINOR_CIV_MERV_CULTURE_BONUS_COTHON</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_COTHON</ModifierId>
+			<Name>FeatureType</Name>
+			<Value>FEATURE_OASIS</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_COTHON</ModifierId>
+			<Name>DistrictType</Name>
+			<Value>DISTRICT_COTHON</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_COTHON</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_CULTURE</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_COTHON</ModifierId>
+			<Name>Amount</Name>
+			<Value>4</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_SUGUBA</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MINOR_CIV_MERV_CULTURE_BONUS_SUGUBA</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_SUGUBA</ModifierId>
+			<Name>FeatureType</Name>
+			<Value>FEATURE_OASIS</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_SUGUBA</ModifierId>
+			<Name>DistrictType</Name>
+			<Value>DISTRICT_SUGUBA</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_SUGUBA</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_CULTURE</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_SUGUBA</ModifierId>
+			<Name>Amount</Name>
+			<Value>4</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_GOVERNMENT</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MINOR_CIV_MERV_CULTURE_BONUS_GOVERNMENT</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_GOVERNMENT</ModifierId>
+			<Name>FeatureType</Name>
+			<Value>FEATURE_OASIS</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_GOVERNMENT</ModifierId>
+			<Name>DistrictType</Name>
+			<Value>DISTRICT_GOVERNMENT</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_GOVERNMENT</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_CULTURE</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_GOVERNMENT</ModifierId>
+			<Name>Amount</Name>
+			<Value>4</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_WATER_EC</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MINOR_CIV_MERV_CULTURE_BONUS_WATER_EC</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_WATER_EC</ModifierId>
+			<Name>FeatureType</Name>
+			<Value>FEATURE_OASIS</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_WATER_EC</ModifierId>
+			<Name>DistrictType</Name>
+			<Value>DISTRICT_WATER_ENTERTAINMENT_COMPLEX</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_WATER_EC</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_CULTURE</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_WATER_EC</ModifierId>
+			<Name>Amount</Name>
+			<Value>4</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_COPACABANA</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MINOR_CIV_MERV_CULTURE_BONUS_COPACABANA</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_UNIQUE_INFLUENCE_BONUS_COPACABANA</ModifierId>
+			<Name>FeatureType</Name>
+			<Value>FEATURE_OASIS</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_COPACABANA</ModifierId>
+			<Name>DistrictType</Name>
+			<Value>DISTRICT_COPACABANA</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_COPACABANA</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_CULTURE</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_MERV_CULTURE_BONUS_COPACABANA</ModifierId>
+			<Name>Amount</Name>
+			<Value>4</Value>
+		</Row>
+		<!--Lagos-->
+		<Row>
+			<ModifierId>MINOR_CIV_LAGOS_UNIQUE_INFLUENCE_BONUS</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MINOR_CIV_LAGOS_FOOD_BONUS</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_LAGOS_FOOD_BONUS</ModifierId>
+			<Name>TerrainType</Name>
+			<Value>TERRAIN_COAST</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_LAGOS_FOOD_BONUS</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_FOOD</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_LAGOS_FOOD_BONUS</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+	</ModifierArguments>
+	<RequirementSets>
+		<Row>
+			<RequirementSetId>PLOT_HAS_OASIS_REQUIREMENT</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ALL</RequirementSetType>
+		</Row>
+	</RequirementSets>
+	<RequirementSetRequirements>
+		<Row>
+			<RequirementSetId>PLOT_HAS_OASIS_REQUIREMENT</RequirementSetId>
+			<RequirementId>REQUIRES_PLOT_HAS_OASIS</RequirementId>
+		</Row>
+	</RequirementSetRequirements>
+	<Requirements>
+		<Row>
+			<RequirementId>REQUIRES_PLOT_HAS_OASIS_REQUIREMENT</RequirementId>
+			<RequirementType>REQUIREMENT_PLOT_FEATURE_TYPE_MATCHES</RequirementType>
+		</Row>
+	</Requirements>
+	<RequirementArguments>
+		<Row>
+			<RequirementId>REQUIRES_PLOT_HAS_OASIS_REQUIREMENT</RequirementId>
+			<Name>FeatureType</Name>
+			<Value>FEATURE_OASIS</Value>
+		</Row>
+	</RequirementArguments>
+	<TypeProperties>
+		<Row Type="CIVILIZATION_VENEZIA" Name="CityStateCategory" Value="MARITIME"/>	
+		<Row Type="CIVILIZATION_MOGADISHU" Name="CityStateCategory" Value="MARITIME"/>
+		<Row Type="CIVILIZATION_TARTESSOS" Name="CityStateCategory" Value="MARITIME"/>		
+		<Row Type="CIVILIZATION_PORT_ROYAL" Name="CityStateCategory" Value="MARITIME"/>	
+		<Row Type="CIVILIZATION_GOA" Name="CityStateCategory" Value="MARITIME"/>
+		<Row Type="CIVILIZATION_SINGAPORE" Name="CityStateCategory" Value="MARITIME"/>
+		<Row Type="CIVILIZATION_KIEV" Name="CityStateCategory" Value="AGRICULTURAL"/>
+		<Row Type="CIVILIZATION_HANOI" Name="CityStateCategory" Value="AGRICULTURAL"/>
+		<Row Type="CIVILIZATION_CAPE_TOWN" Name="CityStateCategory" Value="AGRICULTURAL"/>
+		<Row Type="CIVILIZATION_BOGOTA" Name="CityStateCategory" Value="AGRICULTURAL"/>
+		<Row Type="CIVILIZATION_MERV" Name="CityStateCategory" Value="AGRICULTURAL"/>
+		<Row Type="CIVILIZATION_LAGOS" Name="CityStateCategory" Value="AGRICULTURAL"/>
+	</TypeProperties>
+	<Civilizations>
+		<Row CivilizationType="CIVILIZATION_VENEZIA" Name="LOC_CITY_NAME_VENEZIA" Description="LOC_CIVILIZATION_VENEZIA_DESCRIPTION" Adjective="LOC_CIVILIZATION_VENEZIA_ADJECTIVE" StartingCivilizationLevelType="CIVILIZATION_LEVEL_CITY_STATE" RandomCityNameDepth="1" Ethnicity="ETHNICITY_EURO"/>
+		<Row CivilizationType="CIVILIZATION_MOGADISHU" Name="LOC_CITY_NAME_MOGADISHU" Description="LOC_CIVILIZATION_MOGADISHU_DESCRIPTION" Adjective="LOC_CIVILIZATION_MOGADISHU_ADJECTIVE" StartingCivilizationLevelType="CIVILIZATION_LEVEL_CITY_STATE" RandomCityNameDepth="1" Ethnicity="ETHNICITY_AFRICAN"/>
+		<Row CivilizationType="CIVILIZATION_PORT_ROYAL" Name="LOC_CITY_NAME_PORT_ROYAL" Description="LOC_CIVILIZATION_PORT_ROYAL_DESCRIPTION" Adjective="LOC_CIVILIZATION_PORT_ROYAL_ADJECTIVE" StartingCivilizationLevelType="CIVILIZATION_LEVEL_CITY_STATE" RandomCityNameDepth="1" Ethnicity="ETHNICITY_EURO"/>
+		<Row CivilizationType="CIVILIZATION_TARTESSOS" Name="LOC_CITY_NAME_TARTESSOS" Description="LOC_CIVILIZATION_TARTESSOS_DESCRIPTION" Adjective="LOC_CIVILIZATION_TARTESSOS_ADJECTIVE" StartingCivilizationLevelType="CIVILIZATION_LEVEL_CITY_STATE" RandomCityNameDepth="1" Ethnicity="ETHNICITY_MEDIT"/>
+		<Row CivilizationType="CIVILIZATION_GOA" Name="LOC_CITY_NAME_GOA" Description="LOC_CIVILIZATION_GOA_DESCRIPTION" Adjective="LOC_CIVILIZATION_GOA_ADJECTIVE" StartingCivilizationLevelType="CIVILIZATION_LEVEL_CITY_STATE" RandomCityNameDepth="1" Ethnicity="ETHNICITY_MEDIT"/>
+		<Row CivilizationType="CIVILIZATION_SINGAPORE" Name="LOC_CITY_NAME_SINGAPORE" Description="LOC_CIVILIZATION_SINGAPORE_DESCRIPTION" Adjective="LOC_CIVILIZATION_SINGAPORE_ADJECTIVE" StartingCivilizationLevelType="CIVILIZATION_LEVEL_CITY_STATE" RandomCityNameDepth="1" Ethnicity="ETHNICITY_ASIAN"/>
+		<Row CivilizationType="CIVILIZATION_KIEV" Name="LOC_CITY_NAME_KIEV" Description="LOC_CIVILIZATION_KIEV_DESCRIPTION" Adjective="LOC_CIVILIZATION_KIEV_ADJECTIVE" StartingCivilizationLevelType="CIVILIZATION_LEVEL_CITY_STATE" RandomCityNameDepth="1" Ethnicity="ETHNICITY_EURO"/>
+		<Row CivilizationType="CIVILIZATION_HANOI" Name="LOC_CITY_NAME_HANOI" Description="LOC_CIVILIZATION_HANOI_DESCRIPTION" Adjective="LOC_CIVILIZATION_HANOI_ADJECTIVE" StartingCivilizationLevelType="CIVILIZATION_LEVEL_CITY_STATE" RandomCityNameDepth="1" Ethnicity="ETHNICITY_ASIAN"/>
+		<Row CivilizationType="CIVILIZATION_CAPE_TOWN" Name="LOC_CITY_NAME_CAPE_TOWN" Description="LOC_CIVILIZATION_CAPE_TOWN_DESCRIPTION" Adjective="LOC_CIVILIZATION_CAPE_TOWN_ADJECTIVE" StartingCivilizationLevelType="CIVILIZATION_LEVEL_CITY_STATE" RandomCityNameDepth="1" Ethnicity="ETHNICITY_AFRICAN"/>
+		<Row CivilizationType="CIVILIZATION_BOGOTA" Name="LOC_CITY_NAME_BOGOTA" Description="LOC_CIVILIZATION_BOGOTA_DESCRIPTION" Adjective="LOC_CIVILIZATION_BOGOTA_ADJECTIVE" StartingCivilizationLevelType="CIVILIZATION_LEVEL_CITY_STATE" RandomCityNameDepth="1" Ethnicity="ETHNICITY_SOUTHAM"/>
+		<Row CivilizationType="CIVILIZATION_MERV" Name="LOC_CITY_NAME_MERV" Description="LOC_CIVILIZATION_MERV_DESCRIPTION" Adjective="LOC_CIVILIZATION_MERV_ADJECTIVE" StartingCivilizationLevelType="CIVILIZATION_LEVEL_CITY_STATE" RandomCityNameDepth="1" Ethnicity="ETHNICITY_MEDIT"/>
+		<Row CivilizationType="CIVILIZATION_LAGOS" Name="LOC_CITY_NAME_LAGOS" Description="LOC_CIVILIZATION_LAGOS_DESCRIPTION" Adjective="LOC_CIVILIZATION_LAGOS_ADJECTIVE" StartingCivilizationLevelType="CIVILIZATION_LEVEL_CITY_STATE" RandomCityNameDepth="1" Ethnicity="ETHNICITY_AFRICAN"/>
+	</Civilizations>
+	<CivilizationLeaders>
+		<Row CivilizationType="CIVILIZATION_VENEZIA" LeaderType="LEADER_MINOR_CIV_VENEZIA" CapitalName="LOC_CITY_NAME_VENEZIA"/>
+		<Row CivilizationType="CIVILIZATION_MOGADISHU" LeaderType="LEADER_MINOR_CIV_MOGADISHU" CapitalName="LOC_CITY_NAME_MOGADISHU"/>
+		<Row CivilizationType="CIVILIZATION_PORT_ROYAL" LeaderType="LEADER_MINOR_CIV_PORT_ROYAL" CapitalName="LOC_CITY_NAME_PORT_ROYAL"/>
+		<Row CivilizationType="CIVILIZATION_TARTESSOS" LeaderType="LEADER_MINOR_CIV_TARTESSOS" CapitalName="LOC_CITY_NAME_TARTESSOS"/>
+		<Row CivilizationType="CIVILIZATION_GOA" LeaderType="LEADER_MINOR_CIV_GOA" CapitalName="LOC_CITY_NAME_GOA"/>
+		<Row CivilizationType="CIVILIZATION_SINGAPORE" LeaderType="LEADER_MINOR_CIV_SINGAPORE" CapitalName="LOC_CITY_NAME_SINGAPORE"/>
+		<Row CivilizationType="CIVILIZATION_KIEV" LeaderType="LEADER_MINOR_CIV_KIEV" CapitalName="LOC_CITY_NAME_KIEV"/>
+		<Row CivilizationType="CIVILIZATION_HANOI" LeaderType="LEADER_MINOR_CIV_HANOI" CapitalName="LOC_CITY_NAME_HANOI"/>
+		<Row CivilizationType="CIVILIZATION_CAPE_TOWN" LeaderType="LEADER_MINOR_CIV_CAPE_TOWN" CapitalName="LOC_CITY_NAME_CAPE_TOWN"/>
+		<Row CivilizationType="CIVILIZATION_BOGOTA" LeaderType="LEADER_MINOR_CIV_BOGOTA" CapitalName="LOC_CITY_NAME_BOGOTA"/>
+		<Row CivilizationType="CIVILIZATION_MERV" LeaderType="LEADER_MINOR_CIV_MERV" CapitalName="LOC_CITY_NAME_MERV"/>
+		<Row CivilizationType="CIVILIZATION_LAGOS" LeaderType="LEADER_MINOR_CIV_LAGOS" CapitalName="LOC_CITY_NAME_LAGOS"/>
+	</CivilizationLeaders>
+	<CityNames>
+		<Row CivilizationType="CIVILIZATION_VENEZIA" CityName="LOC_CITY_NAME_VENEZIA"/>
+		<Row CivilizationType="CIVILIZATION_MOGADISHU" CityName="LOC_CITY_NAME_MOGADISHU"/>
+		<Row CivilizationType="CIVILIZATION_PORT_ROYAL" CityName="LOC_CITY_NAME_PORT_ROYAL"/>
+		<Row CivilizationType="CIVILIZATION_TARTESSOS" CityName="LOC_CITY_NAME_TARTESSOS"/>
+		<Row CivilizationType="CIVILIZATION_GOA" CityName="LOC_CITY_NAME_GOA"/>
+		<Row CivilizationType="CIVILIZATION_SINGAPORE" CityName="LOC_CITY_NAME_SINGAPORE"/>
+		<Row CivilizationType="CIVILIZATION_KIEV" CityName="LOC_CITY_NAME_KIEV"/>
+		<Row CivilizationType="CIVILIZATION_HANOI" CityName="LOC_CITY_NAME_HANOI"/>
+		<Row CivilizationType="CIVILIZATION_CAPE_TOWN" CityName="LOC_CITY_NAME_CAPE_TOWN"/>
+		<Row CivilizationType="CIVILIZATION_BOGOTA" CityName="LOC_CITY_NAME_BOGOTA"/>
+		<Row CivilizationType="CIVILIZATION_MERV" CityName="LOC_CITY_NAME_MERV"/>
+		<Row CivilizationType="CIVILIZATION_LAGOS" CityName="LOC_CITY_NAME_LAGOS"/>
+	</CityNames>
+	<PlayerColors>
+		<Row>
+			<Type>CIVILIZATION_VENEZIA</Type>
+			<Usage>Minor</Usage>
+			<PrimaryColor>COLOR_PLAYER_CITY_STATE_PRIMARY</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_INDIA_SECONDARY</SecondaryColor>
+			<TextColor>COLOR_PLAYER_INDIA_SECONDARY</TextColor>
+		</Row>
+		<Row>
+			<Type>CIVILIZATION_MOGADISHU</Type>
+			<Usage>Minor</Usage>
+			<PrimaryColor>COLOR_PLAYER_CITY_STATE_PRIMARY</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_INDIA_SECONDARY</SecondaryColor>
+			<TextColor>COLOR_PLAYER_INDIA_SECONDARY</TextColor>
+		</Row>
+		<Row>
+			<Type>CIVILIZATION_PORT_ROYAL</Type>
+			<Usage>Minor</Usage>
+			<PrimaryColor>COLOR_PLAYER_CITY_STATE_PRIMARY</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_INDIA_SECONDARY</SecondaryColor>
+			<TextColor>COLOR_PLAYER_INDIA_SECONDARY</TextColor>
+		</Row>
+		<Row>
+			<Type>CIVILIZATION_TARTESSOS</Type>
+			<Usage>Minor</Usage>
+			<PrimaryColor>COLOR_PLAYER_CITY_STATE_PRIMARY</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_INDIA_SECONDARY</SecondaryColor>
+			<TextColor>COLOR_PLAYER_INDIA_SECONDARY</TextColor>
+		</Row>
+		<Row>
+			<Type>CIVILIZATION_GOA</Type>
+			<Usage>Minor</Usage>
+			<PrimaryColor>COLOR_PLAYER_CITY_STATE_PRIMARY</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_INDIA_SECONDARY</SecondaryColor>
+			<TextColor>COLOR_PLAYER_INDIA_SECONDARY</TextColor>
+		</Row>
+		<Row>
+			<Type>CIVILIZATION_SINGAPORE</Type>
+			<Usage>Minor</Usage>
+			<PrimaryColor>COLOR_PLAYER_CITY_STATE_PRIMARY</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_INDIA_SECONDARY</SecondaryColor>
+			<TextColor>COLOR_PLAYER_INDIA_SECONDARY</TextColor>
+		</Row>
+		<Row>
+			<Type>CIVILIZATION_KIEV</Type>
+			<Usage>Minor</Usage>
+			<PrimaryColor>COLOR_PLAYER_CITY_STATE_PRIMARY</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_CHINA_PRIMARY</SecondaryColor>
+			<TextColor>COLOR_PLAYER_CHINA_PRIMARY</TextColor>
+		</Row>
+		<Row>
+			<Type>CIVILIZATION_HANOI</Type>
+			<Usage>Minor</Usage>
+			<PrimaryColor>COLOR_PLAYER_CITY_STATE_PRIMARY</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_CHINA_PRIMARY</SecondaryColor>
+			<TextColor>COLOR_PLAYER_CHINA_PRIMARY</TextColor>
+		</Row>
+		<Row>
+			<Type>CIVILIZATION_CAPE_TOWN</Type>
+			<Usage>Minor</Usage>
+			<PrimaryColor>COLOR_PLAYER_CITY_STATE_PRIMARY</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_CHINA_PRIMARY</SecondaryColor>
+			<TextColor>COLOR_PLAYER_CHINA_PRIMARY</TextColor>
+		</Row>
+		<Row>
+			<Type>CIVILIZATION_BOGOTA</Type>
+			<Usage>Minor</Usage>
+			<PrimaryColor>COLOR_PLAYER_CITY_STATE_PRIMARY</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_CHINA_PRIMARY</SecondaryColor>
+			<TextColor>COLOR_PLAYER_CHINA_PRIMARY</TextColor>
+		</Row>
+		<Row>
+			<Type>CIVILIZATION_MERV</Type>
+			<Usage>Minor</Usage>
+			<PrimaryColor>COLOR_PLAYER_CITY_STATE_PRIMARY</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_CHINA_PRIMARY</SecondaryColor>
+			<TextColor>COLOR_PLAYER_CHINA_PRIMARY</TextColor>
+		</Row>
+		<Row>
+			<Type>CIVILIZATION_LAGOS</Type>
+			<Usage>Minor</Usage>
+			<PrimaryColor>COLOR_PLAYER_CITY_STATE_PRIMARY</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_CHINA_PRIMARY</SecondaryColor>
+			<TextColor>COLOR_PLAYER_CHINA_PRIMARY</TextColor>
+		</Row>
+	</PlayerColors>
+	<StartBiasTerrains>
+		<Row CivilizationType="CIVILIZATION_VENEZIA" TerrainType="TERRAIN_COAST" Tier="1"/>
+		<Row CivilizationType="CIVILIZATION_MOGADISHU" TerrainType="TERRAIN_COAST" Tier="1"/>
+		<Row CivilizationType="CIVILIZATION_PORT_ROYAL" TerrainType="TERRAIN_COAST" Tier="1"/>
+		<Row CivilizationType="CIVILIZATION_TARTESSOS" TerrainType="TERRAIN_COAST" Tier="1"/>
+		<Row CivilizationType="CIVILIZATION_GOA" TerrainType="TERRAIN_COAST" Tier="1"/>
+		<Row CivilizationType="CIVILIZATION_SINGAPORE" TerrainType="TERRAIN_COAST" Tier="1"/>
+		<Row CivilizationType="CIVILIZATION_KIEV" TerrainType="TERRAIN_PLAINS" Tier="3"/>
+		<Row CivilizationType="CIVILIZATION_MERV" TerrainType="TERRAIN_DESERT" Tier="4"/>
+	</StartBiasTerrains>
+	<StartBiasRivers>
+		<Row CivilizationType="CIVILIZATION_KIEV" Tier="1"/>
+		<Row CivilizationType="CIVILIZATION_HANOI" Tier="1"/>
+		<Row CivilizationType="CIVILIZATION_CAPE_TOWN" Tier="1"/>
+		<Row CivilizationType="CIVILIZATION_BOGOTA" Tier="1"/>
+		<Row CivilizationType="CIVILIZATION_MERV" Tier="1"/>
+		<Row CivilizationType="CIVILIZATION_LAGOS" Tier="1"/>
+	</StartBiasRivers>
+</GameInfo>

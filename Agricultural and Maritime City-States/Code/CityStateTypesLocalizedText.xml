@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_MINOR_CIV_MARITIME_TRAIT_SMALL_INFLUENCE_BONUS" Language="en_US">
+			<Text>+2 [ICON_FOOD] Food and +2 [ICON_GOLD] Gold in the [ICON_CAPITAL] Capital.</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_MARITIME_TRAIT_MEDIUM_INFLUENCE_BONUS" Language="en_US">
+			<Text>+2 [ICON_FOOD] Food and +2 [ICON_GOLD] Gold in every Lighthouse building.</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_MARITIME_TRAIT_LARGE_INFLUENCE_BONUS" Language="en_US">
+			<Text>+2 [ICON_FOOD] Food and +2 [ICON_GOLD] Gold in every Shipyard building</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_STATES_TYPE_MARITIME" Language="en_US">
+			<Text>Maritime</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_AGRICULTURAL_TRAIT_SMALL_INFLUENCE_BONUS" Language="en_US">
+			<Text>+4 [ICON_FOOD] Food in the [ICON_CAPITAL] Capital.</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_AGRICULTURAL_TRAIT_MEDIUM_INFLUENCE_BONUS" Language="en_US">
+			<Text>+4 [ICON_FOOD] Food in every Granary building.</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_AGRICULTURAL_TRAIT_LARGE_INFLUENCE_BONUS" Language="en_US">
+			<Text>+4 [ICON_FOOD] Food in every Aqueduct district</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_STATES_TYPE_AGRICULTURAL" Language="en_US">
+			<Text>Agricultural</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_MARITIME_TRAIT_NAME" Language="en_US">
+			<Text>Maritime City-State</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_AGRICULTURAL_TRAIT_NAME" Language="en_US">
+			<Text>Agricultural City-State</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_TRADE_TRAIT_LARGE_INFLUENCE_BONUS" Language="en_US">
+			<Text>+4 [ICON_GOLD] Gold in every Bank building.</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_TRADE_TRAIT_MEDIUM_INFLUENCE_BONUS" Language="en_US">
+			<Text>+4 [ICON_GOLD] Gold in every Market building.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_2_CHAPTER_CONTENT_PARA_1" Language="en_US">
+			<Text>There are eight different "flavors" of city-states. Each can provide you with different benefits if you befriend or ally with them.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_2_CHAPTER_CONTENT_PARA_8" Language="en_US">
+			<Text>A maritime city-state can provide your civilization with a bit of [ICON_FOOD] Food and a bit of [ICON_GOLD] Gold.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_2_CHAPTER_CONTENT_PARA_9" Language="en_US">
+			<Text>An agricultural city-state can help your civilization improve its [ICON_FOOD] Food yield.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

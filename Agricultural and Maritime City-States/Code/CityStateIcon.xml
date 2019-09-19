@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameInfo>
+	<IconTextureAtlases>
+		<Row Name ="ICON_ATLAS_CITYSTATEICON_CIVILIZATIONS" IconSize="22" IconsPerRow="4" IconsPerColumn="4" Filename="CityStateIconsNew22.dds"/>
+		<Row Name ="ICON_ATLAS_CITYSTATEICON_CIVILIZATIONS" IconSize="30" IconsPerRow="4" IconsPerColumn="4" Filename="CityStateIconsNew30.dds"/>
+		<Row Name ="ICON_ATLAS_CITYSTATEICON_CIVILIZATIONS" IconSize="36" IconsPerRow="4" IconsPerColumn="4" Filename="CityStateIconsNew36.dds"/>
+		<Row Name ="ICON_ATLAS_CITYSTATEICON_CIVILIZATIONS" IconSize="44" IconsPerRow="4" IconsPerColumn="4" Filename="CityStateIconsNew44.dds"/>
+		<Row Name ="ICON_ATLAS_CITYSTATEICON_CIVILIZATIONS" IconSize="48" IconsPerRow="4" IconsPerColumn="4" Filename="CityStateIconsNew48.dds"/>
+		<Row Name ="ICON_ATLAS_CITYSTATEICON_CIVILIZATIONS" IconSize="50" IconsPerRow="4" IconsPerColumn="4" Filename="CityStateIconsNew50.dds"/>
+		<Row Name ="ICON_ATLAS_CITYSTATEICON_CIVILIZATIONS" IconSize="64" IconsPerRow="4" IconsPerColumn="4" Filename="CityStateIconsNew64.dds"/>
+		<Row Name ="ICON_ATLAS_CITYSTATEICON_CIVILIZATIONS" IconSize="80" IconsPerRow="4" IconsPerColumn="4" Filename="CityStateIconsNew80.dds"/>
+		<Row Name ="ICON_ATLAS_CITYSTATEICON_CIVILIZATIONS" IconSize="256" IconsPerRow="4" IconsPerColumn="4" Filename="CityStateIconsNew256.dds"/>
+	</IconTextureAtlases>
+	<IconDefinitions>
+		<Row Name="ICON_CIVILIZATION_VENEZIA" Atlas="ICON_ATLAS_CITYSTATEICON_CIVILIZATIONS" Index="0"/>
+		<Row Name="ICON_CIVILIZATION_MOGADISHU" Atlas="ICON_ATLAS_CITYSTATEICON_CIVILIZATIONS" Index="1"/>
+		<Row Name="ICON_CIVILIZATION_PORT_ROYAL" Atlas="ICON_ATLAS_CITYSTATEICON_CIVILIZATIONS" Index="2"/>
+		<Row Name="ICON_CIVILIZATION_TARTESSOS" Atlas="ICON_ATLAS_CITYSTATEICON_CIVILIZATIONS" Index="3"/>
+		<Row Name="ICON_CIVILIZATION_GOA" Atlas="ICON_ATLAS_CITYSTATEICON_CIVILIZATIONS" Index="4"/>
+		<Row Name="ICON_CIVILIZATION_SINGAPORE" Atlas="ICON_ATLAS_CITYSTATEICON_CIVILIZATIONS" Index="5"/>
+		<Row Name="ICON_CIVILIZATION_KIEV" Atlas="ICON_ATLAS_CITYSTATEICON_CIVILIZATIONS" Index="6"/>
+		<Row Name="ICON_CIVILIZATION_HANOI" Atlas="ICON_ATLAS_CITYSTATEICON_CIVILIZATIONS" Index="7"/>
+		<Row Name="ICON_CIVILIZATION_CAPE_TOWN" Atlas="ICON_ATLAS_CITYSTATEICON_CIVILIZATIONS" Index="8"/>
+		<Row Name="ICON_CIVILIZATION_BOGOTA" Atlas="ICON_ATLAS_CITYSTATEICON_CIVILIZATIONS" Index="9"/>
+		<Row Name="ICON_CIVILIZATION_MERV" Atlas="ICON_ATLAS_CITYSTATEICON_CIVILIZATIONS" Index="10"/>
+		<Row Name="ICON_CIVILIZATION_LAGOS" Atlas="ICON_ATLAS_CITYSTATEICON_CIVILIZATIONS" Index="11"/>
+	</IconDefinitions>
+</GameInfo>

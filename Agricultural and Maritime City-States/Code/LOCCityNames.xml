@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!--Venice-->
+		<Replace Tag="LOC_CITY_NAME_VENEZIA" Language="en_US">
+			<Text>Venice</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_VENEZIA_DESCRIPTION" Language="en_US">
+			<Text>Venice city-state</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_VENEZIA_ADJECTIVE" Language="en_US">
+			<Text>Venetian</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_VENEZIA_NAME" Language="en_US">
+			<Text>Venice</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_VENEZIA_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_TRADEROUTE] per Harbor district.</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_TRAIT_VENEZIA_NAME" Language="en_US">
+			<Text>Venice Suzerain Bonus</Text>
+		</Replace>
+		<!--Mogadishu-->
+		<Replace Tag="LOC_CITY_NAME_MOGADISHU" Language="en_US">
+			<Text>Mogadishu</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_MOGADISHU_DESCRIPTION" Language="en_US">
+			<Text>Mogadishu city-state</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_MOGADISHU_ADJECTIVE" Language="en_US">
+			<Text>Mogadishan</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_MOGADISHU_NAME" Language="en_US">
+			<Text>Mogadishu</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_MOGADISHU_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_MOVEMENT] Movement per turn for melee naval units.</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_TRAIT_MOGADISHU_NAME" Language="en_US">
+			<Text>Mogadishu Suzerain Bonus</Text>
+		</Replace>
+		<!--Port Royal-->
+		<Replace Tag="LOC_CITY_NAME_PORT_ROYAL" Language="en_US">
+			<Text>Port Royal</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_PORT_ROYAL_DESCRIPTION" Language="en_US">
+			<Text>Port Royal city-state</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_PORT_ROYAL_ADJECTIVE" Language="en_US">
+			<Text>Port-Royalian</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_PORT_ROYAL_NAME" Language="en_US">
+			<Text>Port Royal</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_PORT_ROYAL_DESCRIPTION" Language="en_US">
+			<Text>Pillaging districts grants you 3 times more [ICON_GOLD] Gold.</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_TRAIT_PORT_ROYAL_NAME" Language="en_US">
+			<Text>Port Royal Suzerain Bonus</Text>
+		</Replace>
+		<!--Tartessos-->
+		<Replace Tag="LOC_CITY_NAME_TARTESSOS" Language="en_US">
+			<Text>Tartessos</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_TARTESSOS_DESCRIPTION" Language="en_US">
+			<Text>Tartessos city-state</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_TARTESSOS_ADJECTIVE" Language="en_US">
+			<Text>Tartessian</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_TARTESSOS_NAME" Language="en_US">
+			<Text>Tartessos</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_TARTESSOS_DESCRIPTION" Language="en_US">
+			<Text>+15% [ICON_PRODUCTION] Production for naval units.</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_TRAIT_TARTESSOS_NAME" Language="en_US">
+			<Text>Tartessos Suzerain Bonus</Text>
+		</Replace>
+		<!--Goa-->
+		<Replace Tag="LOC_CITY_NAME_GOA" Language="en_US">
+			<Text>Goa</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_GOA_DESCRIPTION" Language="en_US">
+			<Text>Goa city-state</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_GOA_ADJECTIVE" Language="en_US">
+			<Text>Goan</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_GOA_NAME" Language="en_US">
+			<Text>Goa</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_GOA_DESCRIPTION" Language="en_US">
+			<Text>+2 [ICON_GOLD] Gold for every Plantation improvement.</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_TRAIT_GOA_NAME" Language="en_US">
+			<Text>Goa Suzerain Bonus</Text>
+		</Replace>
+		<!--Singapore-->
+		<Replace Tag="LOC_CITY_NAME_SINGAPORE" Language="en_US">
+			<Text>Singapore</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SINGAPORE_DESCRIPTION" Language="en_US">
+			<Text>Singapore city-state</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SINGAPORE_ADJECTIVE" Language="en_US">
+			<Text>Singaporean</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_GOA_NAME" Language="en_US">
+			<Text>Singapore</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_GOA_DESCRIPTION" Language="en_US">
+			<Text>Commercial Hub buildings provide +1 [ICON_CULTURE] Culture.</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_TRAIT_SINGAPORE_NAME" Language="en_US">
+			<Text>Singapore Suzerain Bonus</Text>
+		</Replace>
+		<!--Kiev-->
+		<Replace Tag="LOC_CITY_NAME_KIEV" Language="en_US">
+			<Text>Kiev</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_KIEV_DESCRIPTION" Language="en_US">
+			<Text>Kiev city-state</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_KIEV_ADJECTIVE" Language="en_US">
+			<Text>Kievan</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_KIEV_NAME" Language="en_US">
+			<Text>Kiev</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_KIEV_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_FOOD] Food per Plains tile.</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_TRAIT_KIEV_NAME" Language="en_US">
+			<Text>Kiev Suzerain Bonus</Text>
+		</Replace>
+		<!--Hanoi-->
+		<Replace Tag="LOC_CITY_NAME_HANOI" Language="en_US">
+			<Text>Hanoi</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_HANOI_DESCRIPTION" Language="en_US">
+			<Text>Hanoi city-state</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_HANOI_ADJECTIVE" Language="en_US">
+			<Text>Hanoian</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_HANOI_NAME" Language="en_US">
+			<Text>Hanoi</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_HANOI_DESCRIPTION" Language="en_US">
+			<Text>Builders get 2 extra charges.</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_TRAIT_HANOI_NAME" Language="en_US">
+			<Text>Hanoi Suzerain Bonus</Text>
+		</Replace>
+		<!--Cape Town-->
+		<Replace Tag="LOC_CITY_NAME_CAPE_TOWN" Language="en_US">
+			<Text>Cape Town</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_CAPE_TOWN_DESCRIPTION" Language="en_US">
+			<Text>Cape Town city-state</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_CAPE_TOWN_ADJECTIVE" Language="en_US">
+			<Text>Capetonian</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_CAPE_TOWN_NAME" Language="en_US">
+			<Text>Cape Town</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_CAPE_TOWN_DESCRIPTION" Language="en_US">
+			<Text>+2 [ICON_CULTURE] Culture per Camp improvement.</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_TRAIT_CAPE_TOWN_NAME" Language="en_US">
+			<Text>Cape Town Suzerain Bonus</Text>
+		</Replace>
+		<!--Bogotá-->
+		<Replace Tag="LOC_CITY_NAME_BOGOTA" Language="en_US">
+			<Text>Bogotá</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BOGOTA_DESCRIPTION" Language="en_US">
+			<Text>Bogotá city-state</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BOGOTA_ADJECTIVE" Language="en_US">
+			<Text>Bogotan</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BOGOTA_NAME" Language="en_US">
+			<Text>Bogotá</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BOGOTA_DESCRIPTION" Language="en_US">
+			<Text>+2 [ICON_GOLD] Gold for every Holy Site.</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_TRAIT_BOGOTA_NAME" Language="en_US">
+			<Text>Bogotá Suzerain Bonus</Text>
+		</Replace>
+		<!--Merv-->
+		<Replace Tag="LOC_CITY_NAME_MERV" Language="en_US">
+			<Text>Merv</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_MERV_DESCRIPTION" Language="en_US">
+			<Text>Merv city-state</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_MERV_ADJECTIVE" Language="en_US">
+			<Text>Mervi</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_MERV_NAME" Language="en_US">
+			<Text>Merv</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_MERV_DESCRIPTION" Language="en_US">
+			<Text>+4 [ICON_CULTURE] Culture for every district adjacent to an Oasis tile.</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_TRAIT_MERV_NAME" Language="en_US">
+			<Text>Merv Suzerain Bonus</Text>
+		</Replace>
+		<!--Lagos-->
+		<Replace Tag="LOC_CITY_NAME_LAGOS" Language="en_US">
+			<Text>Lagos</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_LAGOS_DESCRIPTION" Language="en_US">
+			<Text>Lagos city-state</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_LAGOS_ADJECTIVE" Language="en_US">
+			<Text>Lagosian</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_LAGOS_NAME" Language="en_US">
+			<Text>Lagos</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_LAGOS_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_FOOD] Food per Coast and Lake tile.</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_TRAIT_LAGOS_NAME" Language="en_US">
+			<Text>Lagos Suzerain Bonus</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

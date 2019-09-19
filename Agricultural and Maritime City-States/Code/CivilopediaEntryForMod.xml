@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<GameData>
+	<BaseGameText>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_VENEZIA_CHAPTER_HISTORY_PARA_1">
+			<Text>Venice is a city in northeastern Italy that sits on a group of 118 small islands separated by canals and connected by over 400 bridges. The city was historically the capital of the Republic of Venice. The 697–1797 Republic of Venice was a major financial and maritime power during the Middle Ages and Renaissance, and a staging area for the Crusades and the Battle of Lepanto, as well as an important center of commerce and art in the 13th century up to the end of the 17th century. </Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_MOGADISHU_CHAPTER_HISTORY_PARA_1">
+			<Text>Located in the coastal Banadir region on the Somali Sea, the city has served as an important port for millennia. The city is laid out in five distinct sectors which illustrate different parts of the city's history, from its founding to present day. The original city, Xamar Weyne was founded by Arab settlers around the 9th century AD, and is located on a small spit of land at the Indian Ocean. This portion of the city is constructed from locally available coral blocks, bleached white and built in traditional Arab architecture with archways, latticework’s, and ornate wooden doors and shutters.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_PORT_ROYAL_CHAPTER_HISTORY_PARA_1">
+			<Text>Founded in 1518 by the Spanish, it was once the largest city in the Caribbean, functioning as the centre of shipping and commerce in the Caribbean Sea by the latter half of the 17th century. Port Royal was once home to privateers who were encouraged to attack Habsburg Spain's vessels at a time when smaller European powers dared not make war on Spain directly. As a port city, it was notorious for its gaudy displays of wealth and loose morals.  It was a popular homeport for the English and Dutch-sponsored privateers to spend their treasure during the 17th century.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_TARTESSOS_CHAPTER_HISTORY_PARA_1">
+			<Text>Tartessos or Tartessus, was a semi-mythical harbor city and the surrounding culture on the south coast of the Iberian Peninsula. Archaeological discoveries in the region have built up a picture of a more widespread culture, identified as Tartessian, that includes some 97 inscriptions in a Tartessian language. The Tartessians were rich in metal. In the 4th century BC the historian Ephorus describes "a very prosperous market called Tartessos, with much tin carried by river, as well as gold and copper from Celtic lands".</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_GOA_CHAPTER_HISTORY_PARA_1">
+			<Text>In 1510, the Portuguese defeated the ruling Bijapur sultan Yusuf Adil Shah with the help of a local ally, Timayya. They set up a permanent settlement in Velha Goa. This was the beginning of Portuguese rule in Goa that would last for four and a half centuries, until its annexation in 1961. </Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_SINGAPORE_CHAPTER_HISTORY_PARA_1">
+			<Text>Singapore is an island city-state in Southeast Asia. The nation is known for its transition from a developing to a developed country in a single generation under the leadership of its founding Prime Minister Lee Kuan Yew. In 1819, Sir Stamford Raffles founded colonial Singapore as a trading post of the British East India Company. After the company's collapse in 1858, the islands were ceded to the British Raj as a crown colony. During the Second World War, Singapore was occupied by Japan. It gained independence from the British Empire in 1963 by joining Malaysia along with other former British territories, but separated two years later over ideological differences, becoming a sovereign state in 1965.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_KIEV_CHAPTER_HISTORY_PARA_1">
+			<Text>Kiev is an important industrial, scientific, educational and cultural center of Eastern Europe. It is home to many high-tech industries, higher education institutions, and world-famous historical landmarks. During its history, Kiev, one of the oldest cities in Eastern Europe, passed through several stages of great prominence and relative obscurity. </Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_HANOI_CHAPTER_HISTORY_PARA_1">
+			<Text>Hanoi is Vietnam's capital and second largest city by population. From 1010 until 1802, it was the most important political centre of Vietnam. It was eclipsed by Huế, the imperial capital of Vietnam during the Nguyen Dynasty (1802–1945). In 1873 Hanoi was conquered by the French. From 1883 to 1945, the city was the administrative center of the colony of French Indochina. From 1954 to 1976, it was the capital of North Vietnam, and it became the capital of a reunified Vietnam in 1976, after the North's victory in the Vietnam War.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_CAPE_TOWN_CHAPTER_HISTORY_PARA_1">
+			<Text>Located on the shore of Table Bay, Cape Town, as the oldest urban area in South Africa, was developed by the Dutch East India Company as a supply station for Dutch ships sailing to East Africa, India, and the Far East. Cape Town outgrew its original purpose as the first European outpost at the Castle of Good Hope, becoming the economic and cultural hub of the Cape Colony. In 2014, Cape Town was named the best place in the world to visit by both The New York Times and The Daily Telegraph.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_BOGOTA_CHAPTER_HISTORY_PARA_1">
+			<Text>Bogotá was founded as the capital of the New Kingdom of Granada on August 6, 1538, by Spanish conquistador Gonzalo Jiménez de Quesada after a harsh expedition into the Andes conquering the Muisca. After the Battle of Boyacá on August 7, 1819, Bogotá became the capital of the independent nation of Gran Colombia. Since the Viceroyalty of New Granada's independence from the Spanish Empire and during the formation of present-day Colombia, Bogotá has remained the capital of this territory.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_MERV_CHAPTER_HISTORY_PARA_1">
+			<Text>Merv was a major oasis-city in Central Asia, on the historical Silk Road, located near today's Mary in Turkmenistan. It changed hands repeatedly throughout its history, being successively ruled by the Achaemenid Empire, a variety of Alexandrian successor kingdoms, Arabs, Turks, and the Safavid Persians, as well as by many others who held it for shorter periods. During the 12th and 13th centuries it became one of the largest cities in the world, having a population of as many as 500,000. In 1221 the city opened its gates to an invading Mongol horde; the resulting destruction of the city proved devastating. Historical accounts contend that the entire population of a million people were killed.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_LAGOS_CHAPTER_HISTORY_PARA_1">
+			<Text>Lagos initially emerged as a port city that originated on a collection of islands. The islands are separated by creeks, fringing the southwest mouth of Lagos Lagoon, while being protected from the Atlantic Ocean by barrier islands and long sand spits such as Bar Beach, which stretch up to 100 km (62 mi) east and west of the mouth. Today, Lagos is the most populous cities in Africa and one of its main financial centers.</Text>
+		</Replace>
+	</BaseGameText>
+</GameData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameInfo>
+	<IconTextureAtlases>
+		<Row Name="ICON_ATLAS_TYPE_CITYSTATES" IconSize="80" IconsPerRow="2" IconsPerColumn="2" Filename="CityStateTypeIconsNew80.dds"/>
+		<Row Name="ICON_ATLAS_TYPE_CITYSTATES" IconSize="256" IconsPerRow="2" IconsPerColumn="2" Filename="CityStateTypeIconsNew256.dds"/>
+	</IconTextureAtlases>
+	<IconDefinitions>
+		<Row Name="ICON_CITYSTATE_MARITIME" Atlas="ICON_ATLAS_TYPE_CITYSTATES" Index="0"/>
+		<Row Name="ICON_CITYSTATE_AGRICULTURAL" Atlas="ICON_ATLAS_TYPE_CITYSTATES" Index="1"/>
+	</IconDefinitions>
+</GameInfo>

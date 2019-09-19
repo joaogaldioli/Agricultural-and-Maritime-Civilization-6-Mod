@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<GameInfo>
+	<IconTextureAtlases>
+		<Row Name="ICON_ATLAS_MOD_ENVOY_BONUSES" IconSize="26" IconsPerRow="2" IconsPerColumn="2" Filename="CSEnvoyIcon26.dds"/>
+		<Row Name="ICON_ATLAS_MOD_ENVOY_BONUSES" IconSize="50" IconsPerRow="2" IconsPerColumn="2" Filename="CSEnvoyIcon50.dds"/>
+	</IconTextureAtlases>
+	<IconDefinitions>
+		<Row Name="ICON_ENVOY_BONUS_MARITIME"			Atlas="ICON_ATLAS_MOD_ENVOY_BONUSES" Index="0"/>
+		<Row Name="ICON_ENVOY_BONUS_FOOD"				Atlas="ICON_ATLAS_MOD_ENVOY_BONUSES" Index="1"/>
+	</IconDefinitions>
+</GameInfo>
